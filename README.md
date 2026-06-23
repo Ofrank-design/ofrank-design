@@ -257,9 +257,9 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
-    alt="Top Languages Bar Chart"
-    width="70%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5"
+    alt="Top Languages"
+    width="45%"
   />
 </p>
 <h2 align="center">📈 Contribution Graph </h2>
