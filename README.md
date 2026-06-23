@@ -28,7 +28,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Procurement%20%26%20Supply%20Chain-14532d?style=for-the-badge&logo=awesomelists&logoColor=white)
 ![Goal](https://img.shields.io/badge/Goal-Building%20a%20strong%20professional%20portfolio-0f766e?style=for-the-badge)
-#📦 Procurement & Supply Chain
+#### 📦 Procurement & Supply Chain
 ![Ghana PPA](https://img.shields.io/badge/Ghana%20PPA%20Acts%20663%20%26%20914-0a4d2e?style=for-the-badge)
 ![Ghana e-GP](https://img.shields.io/badge/Ghana%20e--GP%20Portal-1a6b3c?style=for-the-badge)
 ![EOQ Modelling](https://img.shields.io/badge/EOQ%20Modelling-16a34a?style=for-the-badge)
