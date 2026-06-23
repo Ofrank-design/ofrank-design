@@ -1,4 +1,4 @@
-<img width="1024" height="256" alt="b232ef05-4a4a-4207-9764-d5f1c7c6ee4a" src="https://github.com/user-attachments/assets/84392803-d248-4450-9d78-949cdba8589e" />
+<img width="10244" height="2566" alt="b232ef05-4a4a-4207-9764-d5f1c7c6ee4a" src="https://github.com/user-attachments/assets/84392803-d248-4450-9d78-949cdba8589e" />
 🌐 Live Portfolio
 
 **[▶ Visit my Portfolio →](https://ofrank-design.github.io)**
