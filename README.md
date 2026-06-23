@@ -9,7 +9,7 @@
  
 > Two practical supply chain projects built from scratch a KPI dashboard in Python and a procurement quiz game in JavaScript.
 
-[▶Life Demo](ofrank-design.github.io/Supply-chain-management-TrialProject/) 
+[▶Life Demo →](ofrank-design.github.io/Supply-chain-management-TrialProject/) 
 
 
 
@@ -21,10 +21,12 @@
 <!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-oduro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" /
   
-![Student](https://img.shields.io/badge/KSTU-BSc%20Procurement%20%26%20-0d2149?style=flat-squarelogo=graduation-cap&logoColor=d4a843)
+![Student](https://img.shields.io/badge/KSTU-BSc%20Procurement%20%26%20Supply%20Chain-0d2149?style=flat-square&logo=graduation-cap&logoColor=d4a843)
 ![Year](https://img.shields.io/badge/Enrolled-October%202026-d4a843?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Kumasi%2C%20Ghana-006B3F?style=flat-square)
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Procurement%20%26%20Supply%20Chain-14532d?style=flat-square)
+![Goal](https://img.shields.io/badge/Goal-Building%20a%20strong%20professional%20portfolio-0f766e?style=flat-square)
 #### 📦 Procurement & Supply Chain
 ![Ghana PPA](https://img.shields.io/badge/Ghana%20PPA%20Acts%20663%20%26%20914-0a4d2e?style=for-the-badge)
 ![Ghana e-GP](https://img.shields.io/badge/Ghana%20e--GP%20Portal-1a6b3c?style=for-the-badge)
