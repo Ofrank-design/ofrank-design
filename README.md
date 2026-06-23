@@ -239,11 +239,15 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   <img src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ofrank-design&theme=chartreuse-dark&hide_border=true" width="48%"/>
 </p>
+<h2 align="center">🌐 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&theme=chartreuse-dark&hide_border=true&layout=compact" width="50%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 <h2 align="center">🏆 GitHub Trophies </h2>
