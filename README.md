@@ -304,6 +304,6 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   <strong>— Walt Disney</strong>
 </p>
 
-LAST UPDATED: JUNE 14, 2026
+LAST UPDATED: 23TH, JUNE 2026
 
 </div>
