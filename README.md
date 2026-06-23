@@ -237,31 +237,6 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 
 ![SCM KPI Dashboard](scm_kpi_dashboard.png)
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
-    width="49%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-    width="42%"
-    alt="Top Languages"
-  />
-</p>
-
-
-
 <h2 align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
