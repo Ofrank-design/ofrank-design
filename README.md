@@ -247,7 +247,21 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
     alt="Top Languages"
   />
 </p>
+<h2 align="center">🌐 Languages & Badges</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ofrank-design?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=7DF9FF&logoColor=7DF9FF" />
+  <img src="https://img.shields.io/github/stars/Ofrank-design?style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=7DF9FF&logoColor=7DF9FF" />
+  <img src="https://img.shields.io/github/repos/Ofrank-design?style=for-the-badge&logo=github&label=Repos&labelColor=0D1117&color=7DF9FF&logoColor=7DF9FF" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+    width="45%"
+    alt="Top Languages"
+  />
+</p>
 
 <h2 align="center">🏆 GitHub Trophies </h2>
 
