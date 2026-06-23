@@ -78,7 +78,9 @@ Here, you will find active projects focused on public data, operational transpar
 - **Contract Management:** Standardized Service Level Agreements (SLAs) and automated supplier scorecards.
 
 My goal is to graduate with a verified track record of technical competence, providing prospective employers and collaborators with transparent, measurable evidence of my strategic procurement skills.
+
 ---
+
 # trial<!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
@@ -92,7 +94,6 @@ My goal is to graduate with a verified track record of technical competence, pro
 ---
 
 ## 🛠️ Technical Skills
-
 <table>
 <tr>
 <td width="50%">
