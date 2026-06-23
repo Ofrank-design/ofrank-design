@@ -263,7 +263,7 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 <h2 align="center">🏆 GitHub Trophies </h2>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=dracula&no-frame=true&no-bg=true&column=6&row=2&margin-w=10&margin-h=10"/>
+  <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=dracula&no-frame=true&no-bg=true&column=6&row=2&margin-w=10&margin-h=15"/>
 
 <h2 align="center">📊 Contribution Graph</h2>
 
