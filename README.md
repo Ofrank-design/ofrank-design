@@ -262,6 +262,18 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=C9D1D9&area=true&hide_border=true"
+    width="90%"
+    alt="Contribution Graph"
+  />
+</p>
+
+
+ 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
