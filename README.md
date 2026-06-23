@@ -251,7 +251,6 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   />
 </p>
 
-<h2 align="center"> Language Breakdown</h2>
 
 <p align="center">
   <img
