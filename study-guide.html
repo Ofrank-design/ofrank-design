@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frank Oduro — KSTU Procurement Study Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy: #0f2040;
+  --navy-mid: #1a3a6b;
+  --navy-light: #2a5298;
+  --gold: #c8973a;
+  --gold-light: #f0c060;
+  --cream: #faf8f3;
+  --cream-dark: #f0ece0;
+  --text: #1a1a2e;
+  --text-muted: #5a6070;
+  --white: #ffffff;
+
+  --erp: #2563eb;
+  --erp-bg: #eff6ff;
+  --analytics: #16a34a;
+  --analytics-bg: #f0fdf4;
+  --contracts: #7c3aed;
+  --contracts-bg: #f5f3ff;
+  --supplier: #ea580c;
+  --supplier-bg: #fff7ed;
+  --inventory: #0891b2;
+  --inventory-bg: #ecfeff;
+  --sourcing: #b45309;
+  --sourcing-bg: #fffbeb;
+  --compliance: #6b7280;
+  --compliance-bg: #f9fafb;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Syne', sans-serif;
+  background: var(--cream);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ── HEADER ── */
+.hero {
+  background: var(--navy);
+  padding: 3rem 2rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  top: -60px; right: -60px;
+  width: 300px; height: 300px;
+  border-radius: 50%;
+  border: 40px solid rgba(200,151,58,0.12);
+}
+.hero::after {
+  content: '';
+  position: absolute;
+  bottom: -40px; left: 10%;
+  width: 200px; height: 200px;
+  border-radius: 50%;
+  border: 25px solid rgba(200,151,58,0.08);
+}
+.hero-inner { max-width: 900px; margin: 0 auto; position: relative; z-index: 1; }
+.hero-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  letter-spacing: .15em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.hero-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  color: var(--white);
+  line-height: 1.15;
+  margin-bottom: .5rem;
+}
+.hero-title em { color: var(--gold-light); font-style: italic; }
+.hero-sub {
+  font-size: 14px;
+  color: rgba(255,255,255,0.55);
+  margin-bottom: 2rem;
+  font-weight: 400;
+}
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.hero-tag {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  padding: 5px 12px;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.7);
+  border: 1px solid rgba(255,255,255,0.12);
+}
+.hero-tag.gold { background: rgba(200,151,58,0.2); color: var(--gold-light); border-color: rgba(200,151,58,0.3); }
+
+/* ── WEEKLY COMMITMENT BANNER ── */
+.commit-banner {
+  background: var(--navy-mid);
+  padding: 1.5rem 2rem;
+  border-bottom: 3px solid var(--gold);
+}
+.commit-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr repeat(4, auto);
+  gap: 1rem;
+  align-items: center;
+}
+.commit-title {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  letter-spacing: .1em;
+  color: var(--gold);
+  text-transform: uppercase;
+}
+.commit-card {
+  text-align: center;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px;
+  padding: 10px 16px;
+  min-width: 80px;
+}
+.commit-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.6rem;
+  color: var(--gold-light);
+  line-height: 1;
+}
+.commit-label {
+  font-size: 10px;
+  color: rgba(255,255,255,0.5);
+  margin-top: 3px;
+  font-family: 'DM Mono', monospace;
+}
+.commit-note {
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  font-style: italic;
+  font-family: 'DM Serif Display', serif;
+  grid-column: 1 / -1;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: .75rem;
+  margin-top: -.25rem;
+}
+
+/* ── MAIN CONTENT ── */
+.main { max-width: 900px; margin: 0 auto; padding: 2rem; }
+
+/* ── LEGEND ── */
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 2rem;
+  padding: 1rem 1.25rem;
+  background: var(--white);
+  border-radius: 10px;
+  border: 1px solid var(--cream-dark);
+}
+.legend-title {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: .1em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  width: 100%;
+  margin-bottom: 4px;
+}
+.leg {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.leg-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* ── YEAR TABS ── */
+.tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.tab {
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  border: 2px solid transparent;
+  background: var(--white);
+  color: var(--text-muted);
+  transition: all .2s;
+  letter-spacing: .02em;
+}
+.tab:hover { border-color: var(--navy-light); color: var(--navy); }
+.tab.active {
+  background: var(--navy);
+  color: var(--white);
+  border-color: var(--navy);
+}
+.tab.modules-tab.active { background: var(--gold); border-color: var(--gold); color: var(--navy); }
+
+/* ── PAGE SECTIONS ── */
+.page { display: none; }
+.page.active { display: block; }
+
+.page-intro {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 1.25rem;
+  padding: 10px 14px;
+  background: var(--white);
+  border-radius: 8px;
+  border-left: 3px solid var(--gold);
+  font-style: italic;
+}
+.page-intro strong { color: var(--navy); font-style: normal; }
+
+/* ── SEMESTER GRID ── */
+.sem-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 1.5rem;
+}
+@media(max-width: 620px) { .sem-grid { grid-template-columns: 1fr; } }
+
+.sem-card {
+  background: var(--white);
+  border-radius: 12px;
+  border: 1px solid var(--cream-dark);
+  overflow: hidden;
+}
+.sem-head {
+  background: var(--navy);
+  padding: 12px 16px;
+}
+.sem-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--white);
+}
+.sem-dates {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  margin-top: 2px;
+}
+.sem-body { padding: 14px 16px; }
+
+.section-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 12px 0 8px;
+}
+.section-label:first-child { margin-top: 0; }
+
+/* module tags */
+.mod-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 4px; }
+.mod-tag {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+/* task rows */
+.task {
+  display: flex;
+  gap: 9px;
+  align-items: flex-start;
+  margin-bottom: 9px;
+}
+.task-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+.task-text { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.4; }
+.task-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; font-weight: 400; line-height: 1.4; }
+
+/* alerts */
+.alert {
+  border-radius: 6px;
+  padding: 8px 11px;
+  margin-top: 10px;
+  font-size: 11px;
+  line-height: 1.5;
+}
+.alert-exam { background: #fff1f1; border-left: 3px solid #e24b4a; color: #7f1d1d; }
+.alert-holiday { background: #fffbeb; border-left: 3px solid #f59e0b; color: #78350f; }
+.alert-attach { background: var(--erp-bg); border-left: 3px solid var(--erp); color: #1e3a8a; }
+
+/* milestone */
+.milestone {
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-top: 12px;
+}
+.milestone-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.milestone-text { font-size: 12px; color: var(--text); line-height: 1.5; }
+
+/* ── ATTACHMENT CALLOUT ── */
+.attach-box {
+  background: var(--white);
+  border: 1px solid var(--cream-dark);
+  border-radius: 10px;
+  padding: 14px 18px;
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+.attach-box strong { color: var(--navy); }
+
+/* ── MODULES PAGE ── */
+.year-group { margin-bottom: 1.75rem; }
+.year-badge-hdr {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.year-badge {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+.year-range { font-size: 13px; color: var(--text-muted); }
+
+.module-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  background: var(--white);
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--cream-dark);
+}
+.module-table th {
+  background: var(--navy);
+  color: var(--white);
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 11px;
+  font-family: 'DM Mono', monospace;
+  letter-spacing: .05em;
+  font-weight: 500;
+}
+.module-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--cream-dark);
+  vertical-align: top;
+  line-height: 1.5;
+}
+.module-table tr:last-child td { border-bottom: none; }
+.module-table tr:hover td { background: var(--cream); }
+.code-cell {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  min-width: 80px;
+}
+.link-cell { font-size: 11px; color: var(--text-muted); font-style: italic; }
+
+/* ── SUMMARY STATS ── */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px,1fr));
+  gap: 10px;
+  margin-top: 1.5rem;
+}
+.stat-card {
+  background: var(--navy);
+  border-radius: 10px;
+  padding: 14px 12px;
+  text-align: center;
+}
+.stat-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2rem;
+  color: var(--gold-light);
+  line-height: 1;
+}
+.stat-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: rgba(255,255,255,0.5);
+  margin-top: 4px;
+  letter-spacing: .05em;
+}
+
+/* ── FOOTER ── */
+footer {
+  max-width: 900px;
+  margin: 1rem auto 2rem;
+  padding: 0 2rem;
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--text-muted);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-label">KSTU Procurement &amp; Supply Chain — BSc Portfolio Guide</div>
+    <h1 class="hero-title">Frank Oduro's<br><em>4-Year Study Roadmap</em></h1>
+    <p class="hero-sub">Kumasi Technical University · Enrolled 23 October 2026 · Expected Graduation 2030</p>
+    <div class="hero-meta">
+      <span class="hero-tag gold">📍 Business School, KSTU</span>
+      <span class="hero-tag">7 Portfolio Projects</span>
+      <span class="hero-tag">28 KSTU Modules</span>
+      <span class="hero-tag">4 ERP Systems</span>
+      <span class="hero-tag">2 Industrial Attachments</span>
+      <span class="hero-tag">github.com/frank-oduro</span>
+    </div>
+  </div>
+</header>
+
+<!-- WEEKLY COMMITMENT BANNER -->
+<div class="commit-banner">
+  <div class="commit-inner">
+    <div>
+      <div class="commit-title">Weekly Self-Study Commitment</div>
+      <div style="font-size:13px;color:rgba(255,255,255,0.7);margin-top:4px;font-style:italic;font-family:'DM Serif Display',serif">Sustainable across 4 years beats intense and burnt out</div>
+    </div>
+    <div class="commit-card"><div class="commit-num">2–3</div><div class="commit-label">hrs · Year 1</div></div>
+    <div class="commit-card"><div class="commit-num">3</div><div class="commit-label">hrs · Year 2</div></div>
+    <div class="commit-card"><div class="commit-num">3–4</div><div class="commit-label">hrs · Year 3</div></div>
+    <div class="commit-card"><div class="commit-num">3–4</div><div class="commit-label">hrs · Year 4</div></div>
+    <div class="commit-note">📅 Schedule: Saturday morning (1.5–2 hrs) + one quiet weekday evening (1–2 hrs). Pause 2 weeks before each KSTU exam period. Resume immediately after.</div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<main class="main">
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <div class="legend-title">Skill colour key</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--erp)"></div>ERP Systems</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--analytics)"></div>Procurement Analytics</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--contracts)"></div>Contract Management</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--supplier)"></div>Supplier Management</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--inventory)"></div>Inventory &amp; Logistics</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--sourcing)"></div>Strategic Sourcing</div>
+    <div class="leg"><div class="leg-dot" style="background:var(--compliance)"></div>Compliance &amp; Ethics</div>
+  </div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <button class="tab active" onclick="showPage('y1',this)">Year 1 · 2026–27</button>
+    <button class="tab" onclick="showPage('y2',this)">Year 2 · 2027–28</button>
+    <button class="tab" onclick="showPage('y3',this)">Year 3 · 2028–29</button>
+    <button class="tab" onclick="showPage('y4',this)">Year 4 · 2029–30</button>
+    <button class="tab modules-tab" onclick="showPage('modules',this)">All KSTU Modules</button>
+  </div>
+
+  <!-- ══ YEAR 1 ══ -->
+  <div id="y1" class="page active">
+    <div class="page-intro">School starts <strong>23 October 2026</strong>. Semester 1 runs Oct 2026 – Feb 2027. Semester 2 runs Mar – Jul 2027. Focus this year: <strong>Excel mastery · Inventory concepts · Ghana procurement law · Odoo basics</strong>. Your first portfolio project (Project 4) should be complete by December 2026.</div>
+
+    <div class="sem-grid">
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 1 — Lectures</div>
+          <div class="sem-dates">23 Oct 2026 – Feb 2027</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Procurement Environment I</span>
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Sourcing I</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Business Economics</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Communication Skills</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Logic &amp; Critical Thinking</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~2 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">Excel fundamentals</div><div class="task-sub">Chandoo.org — VLOOKUP, XLOOKUP, pivot tables, basic dashboards. Supports Business Economics calculations directly.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--inventory)"></div><div><div class="task-text">Inventory concepts: EOQ, safety stock, ABC</div><div class="task-sub">YouTube: Wisc-Online logistics channel. Links directly to Procurement Environment I module.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--compliance)"></div><div><div class="task-text">Read Ghana PPA Act 663 (first half)</div><div class="task-sub">GhanaLII.org — free. Procurement thresholds + methods. Supports Sourcing I module.</div></div></div>
+          <div class="alert alert-holiday">📅 Public holidays: 1 Dec — Farmers Day. Use long weekends for Excel practice projects.</div>
+          <div class="alert alert-exam">📝 Mid-semester exams: plan a light revision week, no new self-study topics that week.</div>
+          <div class="milestone" style="background:#fffbeb;border:1px solid #fde68a">
+            <div class="milestone-label" style="color:var(--sourcing)">🎯 Priority action — this week</div>
+            <div class="milestone-text">Start <strong>Project 4: Inventory Optimization Excel Model</strong>. Open the file already generated for you. Study each sheet. Then modify the product data with your own Ghana scenarios.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 2 — Lectures</div>
+          <div class="sem-dates">Mar 2027 – Jul 2027</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Procurement Environment II</span>
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Sourcing II</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Computer Application</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Quantitative Studies</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Principles of Management</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~2–3 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">Excel: advanced procurement spend analysis</div><div class="task-sub">Pairs with Computer Application module. Build a spend tracker — your first real portfolio file.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--erp)"></div><div><div class="task-text">Install Odoo ERP and explore</div><div class="task-sub">Download free Community edition at odoo.com. Set up a fake company. Run 10 practice purchase orders.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--compliance)"></div><div><div class="task-text">Read Ghana PPA Act 914 (amendments)</div><div class="task-sub">GhanaLII.org — understand changes from Act 663. Supports Sourcing II directly.</div></div></div>
+          <div class="alert alert-holiday">📅 Public holidays: 6 Mar (Independence Day) · 1 May (Workers Day). Use these long weekends for Excel projects.</div>
+          <div class="alert alert-exam">📝 End-of-semester exams: ~Jun–Jul 2027. Pause self-study 2 weeks before, resume immediately after.</div>
+          <div class="milestone" style="background:#f0fdf4;border:1px solid #bbf7d0">
+            <div class="milestone-label" style="color:var(--analytics)">✅ Year 1 Milestone</div>
+            <div class="milestone-text"><strong>Project 4 uploaded to GitHub</strong> (folder: 4-inventory-logistics/). Excel skills solid. Odoo installed and 10+ practice transactions logged. README updated to "Completed."</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="attach-box">
+      <strong>Industrial attachment period (Aug–Nov 2027):</strong> KSTU schedules attachment after Sem 2. As a Year 1 student there's no formal attachment yet — use this break to finish any outstanding Odoo transactions and complete HP LIFE free certifications: Inventory Management, Business Analytics, Financial Literacy (all free at life.hp.com).
+    </div>
+  </div>
+
+  <!-- ══ YEAR 2 ══ -->
+  <div id="y2" class="page">
+    <div class="page-intro">Semester 1: Oct 2027 – Feb 2028 · Semester 2: Mar – Jul 2028 · <strong>Industrial Attachment I (PSCM 373)</strong> is a formal KSTU module this year. Legal Aspects and Category Management are your core modules — self-study reinforces both directly.</div>
+
+    <div class="sem-grid">
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 1 — Lectures</div>
+          <div class="sem-dates">Oct 2027 – Feb 2028</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Legal Aspect of Procurement I</span>
+            <span class="mod-tag" style="background:#fff7ed;color:#c2410c">Category Management I</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Operations Management</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Business Needs</span>
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Attachment I (PSCM 373)</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~3 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--erp)"></div><div><div class="task-text">SAP MM — full P2P cycle</div><div class="task-sub">learning.sap.com free trial. Vendor → PR → PO → GR → Invoice. Screenshot every step for GitHub (Project 1).</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--contracts)"></div><div><div class="task-text">Contract management (Coursera)</div><div class="task-sub">UC contract course — audit free. Pairs directly with Legal Aspect of Procurement I module.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--sourcing)"></div><div><div class="task-text">Category management deep dive</div><div class="task-sub">CIPS free 7-step guide at cips.org. Reinforces Category Management I module significantly.</div></div></div>
+        </div>
+      </div>
+
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 2 — Lectures</div>
+          <div class="sem-dates">Mar 2028 – Jul 2028</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Legal Aspect of Procurement II</span>
+            <span class="mod-tag" style="background:#fff7ed;color:#c2410c">Category Management II</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Supply Chain Management</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Stores Mgmt + Spreadsheet</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Operations Management Science</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~3 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">Power BI fundamentals</div><div class="task-sub">Microsoft Learn free path. Build first procurement dashboard. Pairs with Stores Mgmt + Spreadsheet module.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--erp)"></div><div><div class="task-text">Oracle Procurement Cloud basics</div><div class="task-sub">education.oracle.com — free courseware. Procurement Cloud Fundamentals certificate.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--contracts)"></div><div><div class="task-text">Draft mock SLA using UNDP templates</div><div class="task-sub">Write 5-page SLA. Simulate negotiation targeting 15% price reduction. Upload to GitHub (Project 2).</div></div></div>
+          <div class="milestone" style="background:#f5f3ff;border:1px solid #ddd6fe">
+            <div class="milestone-label" style="color:var(--contracts)">✅ Year 2 Milestone</div>
+            <div class="milestone-text"><strong>Projects 1 &amp; 2 on GitHub</strong> — SAP P2P screenshot PDF + Contract SLA document. Power BI dashboard started. 3 of 7 projects complete.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ YEAR 3 ══ -->
+  <div id="y3" class="page">
+    <div class="page-intro">Semester 1: Oct 2028 – Feb 2029 · Semester 2: Mar – Jul 2029 · <strong>Negotiation, Public Procurement Law &amp; Strategic SCM</strong> are core this year — your self-study directly reinforces all three. <strong>Start internship applications in October 2028.</strong></div>
+
+    <div class="sem-grid">
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 1 — Lectures</div>
+          <div class="sem-dates">Oct 2028 – Feb 2029</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Negotiation I</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Public Procurement I</span>
+            <span class="mod-tag" style="background:#fff7ed;color:#c2410c">Strategic SCM</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Stores Admin &amp; Warehousing I</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Supply Chain Diligence II</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Manufacturing Ops Mgmt</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~3–4 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--supplier)"></div><div><div class="task-text">Build supplier scorecard in Excel</div><div class="task-sub">10 mock vendors. OTD %, quality rejection rate, price variance, responsiveness. Portfolio Project 3.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">Power BI: live spend dashboard</div><div class="task-sub">Pull real data from Ghana e-GP portal (ghanaeprocurement.gov.gh). Spend by category, supplier KPIs. Project 5.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--compliance)"></div><div><div class="task-text">Compliance risk assessment</div><div class="task-sub">Pick a live Ghana e-GP tender. Assess against Acts 663 &amp; 914 + UN Global Compact 10 principles. Project 7.</div></div></div>
+          <div class="alert alert-attach">📋 Apply for internship: Oct–Nov 2028. Target Ghana Health Service, SSNIT, Jospong Group, MTN Ghana, Vodafone Ghana.</div>
+        </div>
+      </div>
+
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 2 — Lectures</div>
+          <div class="sem-dates">Mar 2029 – Jul 2029</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Negotiation II</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Public Procurement II</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Sustainability in Supply Chain</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Stores Admin &amp; Warehousing II</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Service Operations Mgmt</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Business Finance</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~3 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--inventory)"></div><div><div class="task-text">Incoterms 2020 — master all 11 terms</div><div class="task-sub">Flexport free guide at flexport.com. Know risk transfer point for every term. Supports Warehousing II.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--compliance)"></div><div><div class="task-text">ESG &amp; sustainability sourcing</div><div class="task-sub">BSR free supply chain guide + UN Global Compact 10 principles. Supports Sustainability in SCM module directly.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--supplier)"></div><div><div class="task-text">SRM deep dive (MIT OpenCourseWare)</div><div class="task-sub">MIT OCW supply chain content. Onboarding, risk assessment, SRM frameworks. Free at ocw.mit.edu.</div></div></div>
+          <div class="milestone" style="background:#fff7ed;border:1px solid #fed7aa">
+            <div class="milestone-label" style="color:var(--supplier)">✅ Year 3 Milestone</div>
+            <div class="milestone-text"><strong>Projects 3, 5 &amp; 7 on GitHub.</strong> Internship application submitted. 5 of 7 portfolio projects complete. Internship experience on CV.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ YEAR 4 ══ -->
+  <div id="y4" class="page">
+    <div class="page-intro">Semester 1: Oct 2029 – Feb 2030 · Semester 2: Mar – Jul 2030 · <strong>Managing Contracts, Logistics &amp; E-Procurement, Industrial Attachment II</strong> are core. Final year project (PSCM 470) is Semester 2 — self-study drops to weekends only during thesis period.</div>
+
+    <div class="sem-grid">
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 1 — Lectures</div>
+          <div class="sem-dates">Oct 2029 – Feb 2030</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Managing Contracts I</span>
+            <span class="mod-tag" style="background:#f0fdf4;color:#15803d">Logistics &amp; Transport Mgmt</span>
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Business Systems &amp; E-Procurement</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Project Management</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Entrepreneurship</span>
+            <span class="mod-tag" style="background:#eff6ff;color:#1d4ed8">Attachment II (PSCM 469)</span>
+          </div>
+          <div class="section-label">Self-study · Sat + 1 weekday · ~3–4 hrs</div>
+          <div class="task"><div class="task-dot" style="background:var(--sourcing)"></div><div><div class="task-text">Strategic sourcing — full category plan</div><div class="task-sub">Rutgers Coursera, audit free. TCO modelling, make-vs-buy, 7-step category management. Portfolio Project 6.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--erp)"></div><div><div class="task-text">MS Dynamics 365 (free 30-day trial)</div><div class="task-sub">Microsoft trial. Pairs directly with Business Systems &amp; E-Procurement module. Complete procurement workflows.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">SCOR KPIs — master the 12 metrics</div><div class="task-sub">ASCM free SCOR guide at ascm.org. Perfect Order %, Cycle Time, Upside Flexibility etc. Essential for interviews.</div></div></div>
+        </div>
+      </div>
+
+      <div class="sem-card">
+        <div class="sem-head">
+          <div class="sem-title">Semester 2 — Final stretch</div>
+          <div class="sem-dates">Mar 2030 – Jul 2030</div>
+        </div>
+        <div class="sem-body">
+          <div class="section-label">KSTU modules</div>
+          <div class="mod-tags">
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Managing Contracts II</span>
+            <span class="mod-tag" style="background:#f5f3ff;color:#6d28d9">Leadership in Procurement</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Total Quality Management</span>
+            <span class="mod-tag" style="background:#f9fafb;color:#374151">Managing Risk in SCM</span>
+            <span class="mod-tag" style="background:#fff1f0;color:#b91c1c">Project Work — PSCM 470 (Thesis)</span>
+          </div>
+          <div class="section-label">Self-study · Weekends only · ~2 hrs (thesis takes priority)</div>
+          <div class="task"><div class="task-dot" style="background:var(--compliance)"></div><div><div class="task-text">Final compliance &amp; ethics review</div><div class="task-sub">Revisit Acts 663 &amp; 914 + UN Global Compact. Supports Managing Risk in SCM module.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--supplier)"></div><div><div class="task-text">Join GIPS / SGIPS student network</div><div class="task-sub">Attend Kumasi procurement forums. Connect with hiring managers before graduation day.</div></div></div>
+          <div class="task"><div class="task-dot" style="background:var(--analytics)"></div><div><div class="task-text">Polish GitHub — all 7 projects live</div><div class="task-sub">Update README, add screenshots, write project summaries. Share URL on LinkedIn and CV before interviews.</div></div></div>
+          <div class="milestone" style="background:#fffbeb;border:1px solid #fde68a">
+            <div class="milestone-label" style="color:var(--sourcing)">🎓 Graduation Milestone</div>
+            <div class="milestone-text">All 7 GitHub projects complete · 4 ERP systems practised · 2 attachments done · CV polished · <strong>First job applications out by May 2030.</strong></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ ALL MODULES ══ -->
+  <div id="modules" class="page">
+    <div class="page-intro">All 28 KSTU BSc Procurement &amp; Supply Chain modules across 8 semesters, with the exact self-study skill each module connects to.</div>
+
+    <div class="year-group">
+      <div class="year-badge-hdr">
+        <span class="year-badge" style="background:#eff6ff;color:#1d4ed8">Year 1</span>
+        <span class="year-range">Oct 2026 – Jul 2027</span>
+      </div>
+      <table class="module-table">
+        <thead><tr><th>Code</th><th>Module Name</th><th>Sem</th><th>Self-Study Link</th></tr></thead>
+        <tbody>
+          <tr><td class="code-cell">PSCM 163</td><td>Procurement Environment I</td><td style="text-align:center">1</td><td class="link-cell">Ghana PPA Acts 663 &amp; 914 — GhanaLII.org</td></tr>
+          <tr><td class="code-cell">PSCM 165</td><td>Sourcing I</td><td style="text-align:center">1</td><td class="link-cell">Odoo ERP practice, category basics</td></tr>
+          <tr><td class="code-cell">PSCM 157</td><td>Business Economics</td><td style="text-align:center">1</td><td class="link-cell">Excel formulas for economic calculations</td></tr>
+          <tr><td class="code-cell">PCOS 151</td><td>Communication Skills</td><td style="text-align:center">1</td><td class="link-cell">Writing procurement reports and memos</td></tr>
+          <tr><td class="code-cell">PSCM 164</td><td>Procurement Environment II</td><td style="text-align:center">2</td><td class="link-cell">Ghana e-GP portal — ghanaeprocurement.gov.gh</td></tr>
+          <tr><td class="code-cell">PSCM 166</td><td>Sourcing II</td><td style="text-align:center">2</td><td class="link-cell">Act 914 amendments — GhanaLII.org</td></tr>
+          <tr><td class="code-cell">PCLT 154</td><td>Computer Application</td><td style="text-align:center">2</td><td class="link-cell">Excel mastery — Chandoo.org (spend tracker project)</td></tr>
+          <tr><td class="code-cell">PSCM 160</td><td>Quantitative Studies</td><td style="text-align:center">2</td><td class="link-cell">EOQ, safety stock, ABC analysis in Excel — Project 4</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="year-group">
+      <div class="year-badge-hdr">
+        <span class="year-badge" style="background:#f5f3ff;color:#6d28d9">Year 2</span>
+        <span class="year-range">Oct 2027 – Jul 2028</span>
+      </div>
+      <table class="module-table">
+        <thead><tr><th>Code</th><th>Module Name</th><th>Sem</th><th>Self-Study Link</th></tr></thead>
+        <tbody>
+          <tr><td class="code-cell">PSCM 261</td><td>Legal Aspect of Procurement I</td><td style="text-align:center">1</td><td class="link-cell">Coursera contract management course — audit free</td></tr>
+          <tr><td class="code-cell">PSCM 265</td><td>Category Management I</td><td style="text-align:center">1</td><td class="link-cell">CIPS 7-step category guide + SAP MM practice (Project 1)</td></tr>
+          <tr><td class="code-cell">PSCM 267</td><td>Business Needs</td><td style="text-align:center">1</td><td class="link-cell">Spend analysis and needs specification in Excel</td></tr>
+          <tr><td class="code-cell">PSCM 373</td><td>Industrial Attachment I</td><td style="text-align:center">1</td><td class="link-cell">Target: GHS, SSNIT, Jospong Group, MTN Ghana</td></tr>
+          <tr><td class="code-cell">PSCM 262</td><td>Legal Aspect of Procurement II</td><td style="text-align:center">2</td><td class="link-cell">UNDP SLA templates + mock negotiation (Project 2)</td></tr>
+          <tr><td class="code-cell">PSCM 270</td><td>Category Management II</td><td style="text-align:center">2</td><td class="link-cell">TCO modelling, competitive tendering practice</td></tr>
+          <tr><td class="code-cell">PSCM 272</td><td>Stores Mgmt (Spreadsheet Application)</td><td style="text-align:center">2</td><td class="link-cell">Power BI fundamentals — Microsoft Learn free path</td></tr>
+          <tr><td class="code-cell">PSCM 264</td><td>Supply Chain Management</td><td style="text-align:center">2</td><td class="link-cell">Oracle Procurement Cloud Fundamentals — education.oracle.com</td></tr>
+          <tr><td class="code-cell">PSCM 268</td><td>Supply Chain Diligence I</td><td style="text-align:center">2</td><td class="link-cell">SCOR framework basics — ASCM free resources</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="year-group">
+      <div class="year-badge-hdr">
+        <span class="year-badge" style="background:#f0fdf4;color:#15803d">Year 3</span>
+        <span class="year-range">Oct 2028 – Jul 2029</span>
+      </div>
+      <table class="module-table">
+        <thead><tr><th>Code</th><th>Module Name</th><th>Sem</th><th>Self-Study Link</th></tr></thead>
+        <tbody>
+          <tr><td class="code-cell">PSCM 361</td><td>Negotiation I</td><td style="text-align:center">1</td><td class="link-cell">Mock SLA negotiation — 15% price reduction simulation</td></tr>
+          <tr><td class="code-cell">PSCM 363</td><td>Public Procurement I</td><td style="text-align:center">1</td><td class="link-cell">Ghana e-GP tender analysis (Project 7)</td></tr>
+          <tr><td class="code-cell">PSCM 365</td><td>Strategic Supply Chain Management</td><td style="text-align:center">1</td><td class="link-cell">Supplier scorecard + Power BI dashboard (Projects 3 &amp; 5)</td></tr>
+          <tr><td class="code-cell">PSCM 367</td><td>Stores Admin &amp; Warehousing I</td><td style="text-align:center">1</td><td class="link-cell">ABC analysis + inventory modelling from Project 4</td></tr>
+          <tr><td class="code-cell">PSCM 362</td><td>Negotiation II</td><td style="text-align:center">2</td><td class="link-cell">Advanced contract negotiation techniques + SLA extension</td></tr>
+          <tr><td class="code-cell">PSCM 364</td><td>Public Procurement II</td><td style="text-align:center">2</td><td class="link-cell">Compliance risk assessment report — Project 7 extension</td></tr>
+          <tr><td class="code-cell">PSCM 366</td><td>Sustainability in Supply Chain</td><td style="text-align:center">2</td><td class="link-cell">BSR free guide + UN Global Compact 10 principles</td></tr>
+          <tr><td class="code-cell">PSCM 368</td><td>Stores Admin &amp; Warehousing II</td><td style="text-align:center">2</td><td class="link-cell">Incoterms 2020 all 11 terms — Flexport free guide</td></tr>
+          <tr><td class="code-cell">PSCM 374</td><td>Business Finance</td><td style="text-align:center">2</td><td class="link-cell">TCO financial modelling in Excel</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="year-group">
+      <div class="year-badge-hdr">
+        <span class="year-badge" style="background:#fffbeb;color:#92400e">Year 4</span>
+        <span class="year-range">Oct 2029 – Jul 2030</span>
+      </div>
+      <table class="module-table">
+        <thead><tr><th>Code</th><th>Module Name</th><th>Sem</th><th>Self-Study Link</th></tr></thead>
+        <tbody>
+          <tr><td class="code-cell">PSCM 461</td><td>Managing Contracts in Supply Chain I</td><td style="text-align:center">1</td><td class="link-cell">Contract portfolio review + TCO model (Project 6)</td></tr>
+          <tr><td class="code-cell">PSCM 465</td><td>Logistics &amp; Transportation Management</td><td style="text-align:center">1</td><td class="link-cell">MS Dynamics 365 trial + SCOR 12 KPIs mastery</td></tr>
+          <tr><td class="code-cell">PSCM 467</td><td>Business Systems &amp; E-Procurement</td><td style="text-align:center">1</td><td class="link-cell">Ghana e-GP deep dive + Oracle Cloud review</td></tr>
+          <tr><td class="code-cell">PSCM 453</td><td>Research Methods</td><td style="text-align:center">1</td><td class="link-cell">GitHub portfolio as primary evidence base for thesis</td></tr>
+          <tr><td class="code-cell">PSCM 469</td><td>Industrial Attachment II</td><td style="text-align:center">1</td><td class="link-cell">Target senior role — bigger organisation than Year 2</td></tr>
+          <tr><td class="code-cell">PSCM 462</td><td>Managing Contracts in Supply Chain II</td><td style="text-align:center">2</td><td class="link-cell">Final SLA portfolio + advanced negotiation review</td></tr>
+          <tr><td class="code-cell">PSCM 468</td><td>Managing Risk in Supply Chain</td><td style="text-align:center">2</td><td class="link-cell">Acts 663 &amp; 914 final review + UN Global Compact</td></tr>
+          <tr><td class="code-cell">PSCM 464</td><td>Leadership in Procurement and Supply</td><td style="text-align:center">2</td><td class="link-cell">GIPS/SGIPS network — forums, mentorship, hiring</td></tr>
+          <tr><td class="code-cell">PSCM 470</td><td>Project Work (Final Year Thesis)</td><td style="text-align:center">2</td><td class="link-cell">7 GitHub projects are your strongest supporting evidence</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-num">8</div><div class="stat-label">Semesters</div></div>
+      <div class="stat-card"><div class="stat-num">28</div><div class="stat-label">KSTU Modules</div></div>
+      <div class="stat-card"><div class="stat-num">7</div><div class="stat-label">Portfolio Projects</div></div>
+      <div class="stat-card"><div class="stat-num">4</div><div class="stat-label">ERP Systems</div></div>
+      <div class="stat-card"><div class="stat-num">2</div><div class="stat-label">Attachments</div></div>
+      <div class="stat-card"><div class="stat-num">4</div><div class="stat-label">Years</div></div>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <span>Frank Oduro · KSTU BSc Procurement &amp; Supply Chain · Enrolled Oct 2026</span>
+  <span>github.com/ofrank-design · frankoduro1912@gmail.com</span>
+</footer>
+
+<script>
+function showPage(id, btn) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+}
+</script>
+</body>
+</html>
