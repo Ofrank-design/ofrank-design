@@ -253,7 +253,17 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"/>
 </p>
+## 📚 Most Used Languages
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+    alt="Most Used Languages"
+    width="48%"
+  />
+</p>
+
+I use this section to show the programming languages I work with most often across my public repositories. It helps me track my progress, identify my strongest tools, and keep my portfolio transparent and up to date.
 
 <h2 align="center">📈 Contribution Graph </h2>
 
