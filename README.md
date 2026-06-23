@@ -22,10 +22,18 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+# trial<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 <!-- BADGES -->
 <!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-oduro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" /
-  
+
 ![Student](https://img.shields.io/badge/KSTU-BSc%20Procurement%20%26%20Supply%20Chain-0d2149?style=for-the-badge&logo=github&logoColor=d4a843)
 ![Year](https://img.shields.io/badge/Enrolled-October%202026-d4a843?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Kumasi%2C%20Ghana-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -64,16 +72,6 @@
   <img src="./microsoft-learn.png" width="50" height="50" alt="Microsoft Learn" style="margin-right: 8px;" />
   <img src="./matplotlib.png" width="50" height="50" alt="Matplotlib" />
 </p>
-
-# trial<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
 
 # Hi, I'm Frank Oduro 👋
 
