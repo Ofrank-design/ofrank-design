@@ -25,6 +25,7 @@
 <!-- BADGES -->
 <!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-oduro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" /
+ 
    <img src="https://img.shields.io/github/followers/Ofrank-design?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=7DF9FF&logoColor=7DF9FF" />
   <img src="https://img.shields.io/github/stars/Ofrank-design?style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=7DF9FF&logoColor=7DF9FF" />
 </p>
