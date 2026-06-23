@@ -36,7 +36,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" width="42%" alt="Tech Stack" src="./Skills_Animation_White.gif"/>
+  <img align="right" width="70%" alt="Tech Stack" src="./Skills_Animation_White.gif"/>
 </picture>
 
 #### 📦 Procurement & Supply Chain
