@@ -259,32 +259,6 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<div align="center">
-  <!-- Neon Stats Header -->
-  <h2>🌌 OFRANK-DESIGN // CORE RUNTIME METRICS</h2>
-
-  <!-- Custom Neon Bar Chart Display -->
-  <img src="./neon-stats-dashboard.png" alt="Ofrank-Design Most Used Languages Neon Stats Dashboard" width="100%" />
-
-  <br/>
-
-  <!-- High-Utility Text Fallback for Search and Accessibility -->
-  <table>
-    <tr>
-      <td><strong>🔷 JavaScript</strong></td><td>58.4%</td>
-      <td><strong>🟩 TypeScript</strong></td><td>22.1%</td>
-    </tr>
-    <tr>
-      <td><strong>🟪 Python</strong></td><td>9.7%</td>
-      <td><strong>🔶 Java</strong></td><td>4.2%</td>
-    </tr>
-    <tr>
-      <td><strong>🟨 Go</strong></td><td>3.1%</td>
-      <td><strong>🌸 C++</strong></td><td>2.5%</td>
-    </tr>
-  </table>
-</div>
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
