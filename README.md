@@ -232,36 +232,46 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 **KPI Scorecard** at the bottom summarises December performance at a glance — green for on target, red for below.
 
 ![SCM KPI Dashboard](scm_kpi_dashboard.png)
-<h2 align="center">⚡ Neon GitHub Dashboard</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF&ring_color=7DF9FF"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
-    width="49%"
-    alt="GitHub Streak"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-    width="42%"
-    alt="Top Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=C9D1D9&area=true&hide_border=true"
+        alt="Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=C9D1D9&area=true&hide_border=true"
-    width="90%"
-    alt="Activity Graph"
-  />
-</p>
+
+
+
+
+
 
 <h2 align="center"> 📈 GitHub Stats </h2>
 
