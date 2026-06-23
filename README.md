@@ -14,14 +14,12 @@
 ![Location](https://img.shields.io/badge/📍-Kumasi%2C%20Ghana-006B3F?style=flat-square)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github)
 #### 📦 Procurement & Supply Chain
-<p>
-  <img src="./ghana-ppa.png" width="50" height="50" alt="Ghana PPA" style="margin-right: 8px;" />
-  <img src="./ghana-egp.png" width="50" height="50" alt="Ghana e-GP" style="margin-right: 8px;" />
-  <img src="./eoq.png" width="50" height="50" alt="EOQ Modelling" style="margin-right: 8px;" />
-  <img src="./abc-analysis.png" width="50" height="50" alt="ABC Analysis" style="margin-right: 8px;" />
-  <img src="./contract-management.png" width="50" height="50" alt="Contract Management" style="margin-right: 8px;" />
-  <img src="./strategic-sourcing.png" width="50" height="50" alt="Strategic Sourcing" />
-</p>
+![Ghana PPA](https://img.shields.io/badge/Ghana%20PPA%20Acts%20663%20%26%20914-0a4d2e?style=for-the-badge)
+![Ghana e-GP](https://img.shields.io/badge/Ghana%20e--GP%20Portal-1a6b3c?style=for-the-badge)
+![EOQ Modelling](https://img.shields.io/badge/EOQ%20Modelling-16a34a?style=for-the-badge)
+![ABC Analysis](https://img.shields.io/badge/ABC%20Analysis-15803d?style=for-the-badge)
+![Contract Management](https://img.shields.io/badge/Contract%20Management-166534?style=for-the-badge)
+![Strategic Sourcing](https://img.shields.io/badge/Strategic%20Sourcing-14532d?style=for-the-badge)
 
 #### 📊 Analytics & Tools
 <p>
