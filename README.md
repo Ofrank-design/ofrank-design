@@ -4,6 +4,11 @@
 > A free, browser-based toolkit for supply chain and procurement professionals  no login, no install, no cost.
 
 **[▶ Live Demo →](https://ofrank-design.github.io/procurement-logistics-toolkit)**
+# 📊 SCM Projects  Python & JavaScript
+
+> Two practical supply chain projects built from scratch a KPI dashboard in Python and a procurement quiz game in JavaScript.
+
+**By [Frank Oduro](ofrank-design.github.io/Supply-chain-management-TrialProject/) 
 
 
 
