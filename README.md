@@ -22,14 +22,6 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# trial<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
 <!-- BADGES -->
 <!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-oduro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" /
@@ -86,7 +78,14 @@ Here, you will find active projects focused on public data, operational transpar
 - **Contract Management:** Standardized Service Level Agreements (SLAs) and automated supplier scorecards.
 
 My goal is to graduate with a verified track record of technical competence, providing prospective employers and collaborators with transparent, measurable evidence of my strategic procurement skills.
-
+# trial<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 ---
 
