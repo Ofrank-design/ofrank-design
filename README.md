@@ -262,13 +262,13 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ofrank-design&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=2&margin-w=12&margin-h=12&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultipleLang"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Ofrank-design&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=2&margin-w=10&margin-h=10"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
-
-
 
 
 <h2 align="center">🏆 GitHub Trophies </h2>
