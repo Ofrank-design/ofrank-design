@@ -251,9 +251,11 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
   />
 </p>
 
+<h2 align="center">⚡ Most Used Languages</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0,0B0F19,111827&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
     width="42%"
     alt="Top Languages"
   />
