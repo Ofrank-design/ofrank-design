@@ -210,6 +210,24 @@ CIPS 7-step framework · Make-vs-buy · Competitive tendering
 ```
 
 
+### 📈 Supply Chain KPI Dashboard  Python
+
+A fully coded KPI dashboard built with Python and matplotlib, visualising six key supply chain metrics for a Ghana public sector context.
+
+**Charts included:**
+- On-Time Delivery Rate vs target (line chart)
+- Purchase Order Cycle Time (bar chart)
+- Supplier Quality Rate (line + fill)
+- Cost Savings vs Budget — GHS (bar chart, green/red)
+- Inventory Turnover Ratio (line chart)
+- Annual Spend by Category (pie chart)
+
+**KPI Scorecard** at the bottom summarises December performance at a glance — green for on target, red for below.
+
+![SCM KPI Dashboard](scm_kpi_dashboard.png)
+
+
+
 <h2 align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
