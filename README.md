@@ -6,9 +6,10 @@
 **[▶ Live Demo →](https://ofrank-design.github.io/procurement-logistics-toolkit)**
 
  📊 SCM Projects  Python & JavaScript
+ 
 > Two practical supply chain projects built from scratch a KPI dashboard in Python and a procurement quiz game in JavaScript.
 
-**[▶Life Demo](ofrank-design.github.io/Supply-chain-management-TrialProject/) 
+[▶Life Demo](ofrank-design.github.io/Supply-chain-management-TrialProject/) 
 
 
 
