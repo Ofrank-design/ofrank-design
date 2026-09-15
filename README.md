@@ -359,38 +359,29 @@ I am particularly interested in opportunities involving:
 * Digital Transformation
 * Enterprise Software
 * Full-Stack Development
-
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/Ofrank-design">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-      width="49%"
-      alt="Frank Oduro's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Ofrank-design">
-    <img
-      src="https://streak-stats.demolab.com/?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
-      width="49%"
-      alt="Frank Oduro's GitHub Streak"
-    />
-  </a>
+  <img
+    src="./profile/stats.svg"
+    width="49%"
+    alt="Frank Oduro's GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
+    width="49%"
+    alt="Frank Oduro's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ofrank-design">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9"
-      width="45%"
-      alt="Frank Oduro's Top Languages"
-    />
-  </a>
+  <img
+    src="./profile/top-langs.svg"
+    width="45%"
+    alt="Frank Oduro's Top Languages"
+  />
 </p>
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
