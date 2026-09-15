@@ -1,39 +1,48 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
-name: Python application
+name: Generate GitHub Stats
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  build:
-
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Lint with flake8
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
-      run: |
-        pytest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_user: Ofrank-design
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p profile
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF" \
+            -o profile/stats.svg
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" \
+            -o profile/top-langs.svg
+
+      - name: Commit generated stats
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/
+          git commit -m "Update GitHub statistics" || exit 0
+          git push
