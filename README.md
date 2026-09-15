@@ -359,36 +359,27 @@ I am particularly interested in opportunities involving:
 * Digital Transformation
 * Enterprise Software
 * Full-Stack Development
+
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&theme=tokyonight&hide_border=true"
     width="49%"
-    alt="Frank Oduro's GitHub Stats"
+    alt="GitHub Statistics"
   />
-
   <img
-    src="https://streak-stats.demolab.com/?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ofrank-design&theme=tokyonight&hide_border=true"
     width="49%"
-    alt="Frank Oduro's GitHub Streak"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="./profile/top-langs.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     width="45%"
-    alt="Frank Oduro's Top Languages"
-  />
-</p>
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"
-    width="100%"
-    alt="Frank Oduro's GitHub Trophies"
+    alt="Top Programming Languages"
   />
 </p>
 
@@ -397,14 +388,13 @@ I am particularly interested in opportunities involving:
 <h2 align="center">💻 Development Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/Ofrank-design">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=C9D1D9&area=true&hide_border=true"
-      width="100%"
-      alt="Frank Oduro's GitHub Development Activity"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Development Activity"
+  />
 </p>
+
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
