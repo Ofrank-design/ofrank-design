@@ -2,75 +2,99 @@
 
 # 👋 Hi, I'm Frank Oduro
 
-### Full-Stack Web Developer · Software Builder · SaaS & ERP Enthusiast
+### Procurement & Supply Chain Specialist | Full-Stack Web Developer
 
-I design and build modern web applications, business platforms, dashboards, and scalable software products — from frontend interfaces to backend systems and databases.
+**Procurement • Supply Chain • ERP • Business Technology • Web Development**
+
+I combine procurement and supply chain knowledge with software development to build practical digital solutions for purchasing, suppliers, inventory, logistics, analytics, and business operations.
 
 <a href="https://ofrank-design.github.io">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7DF9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7DF9FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/Ofrank-design">
-  <img src="https://img.shields.io/badge/GitHub-Ofrank--design-7DF9FF?style=for-the-badge&logo=github&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub-Ofrank--design-7DF9FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💼 About Me
 
-I'm a **Full-Stack Web Developer** focused on turning ideas into functional, polished, real-world software.
+I am a **Procurement & Supply Chain Management professional** with a strong interest in the intersection between **business operations and technology**.
 
-I enjoy working across the entire development stack — from designing responsive interfaces and interactive dashboards to building APIs, database systems, authentication, business logic, and production-ready applications.
+My work focuses on understanding how organizations purchase, manage suppliers, control inventory, coordinate logistics, manage contracts, and make operational decisions — and using technology to make those processes more efficient, transparent, and data-driven.
 
-My projects increasingly focus on **SaaS, ERP, business automation, procurement technology, analytics, and enterprise applications**.
+Alongside my procurement and supply chain specialization, I have developed practical experience in **full-stack web development**, building complete websites and business applications from frontend interfaces to backend functionality and data-driven systems.
 
-### What I Build
+### My professional focus
 
-* 🌐 Modern full-stack web applications
-* 🚀 SaaS platforms
-* 🏢 ERP & business management systems
-* 📊 Analytics & data dashboards
-* 🔐 Authentication & role-based systems
-* 🔌 REST APIs & backend services
-* 🗄️ Database-driven applications
-* ⚙️ Business workflow automation
-* 📱 Responsive web experiences
-* 🤖 AI-powered software features
+* 📦 Procurement & Purchasing
+* 🚚 Supply Chain Management
+* 🤝 Supplier Management
+* 📊 Procurement & Supply Chain Analytics
+* 🏢 ERP & Business Management Systems
+* 📋 Contract & Tender Management
+* 📈 Inventory Optimization
+* 🌐 Full-Stack Web Development
+* 💻 Business Applications & SaaS
+* ⚙️ Digital Process Automation
 
 ---
 
-# 🧰 Tech Stack
+# 🧠 The Intersection
 
-### Frontend
+My goal isn't simply to work in procurement or simply to write code.
+
+I am interested in **using technology to solve real procurement and supply chain problems**.
+
+That means understanding the business process first and then thinking about how software can improve it:
+
+```text
+Business Problem
+       ↓
+Process & Workflow
+       ↓
+Data & Requirements
+       ↓
+Software Solution
+       ↓
+Automation
+       ↓
+Analytics & Visibility
+       ↓
+Better Decisions
+```
+
+This perspective is what led me to start building **Pavos**, a procurement and supply chain management platform designed around real organizational workflows.
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Web Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### Backend & APIs
+### Backend & Data
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Server--Side%20Development-111827?style=for-the-badge"/>
-</p>
-
-### Databases
-
-<p>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
 
-### Development & Tools
+### Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -81,137 +105,251 @@ My projects increasingly focus on **SaaS, ERP, business automation, procurement 
 
 ---
 
-# ⭐ Featured Projects
+# 📦 Procurement & Supply Chain
+
+### Procurement
+
+* Strategic Sourcing
+* Procurement Planning
+* Purchase Requisitions
+* Purchase Orders
+* RFQs & Tendering
+* Supplier Evaluation
+* Contract Management
+* Spend Analysis
+* Total Cost of Ownership
+* Procurement Compliance
+
+### Supply Chain
+
+* Inventory Management
+* EOQ Modelling
+* ABC Analysis
+* Safety Stock
+* Reorder Points
+* Demand & Supply Planning
+* Logistics Planning
+* Supplier Performance
+* Supply Chain KPIs
+* Operational Analytics
+
+### Enterprise Systems
+
+<p>
+<img src="./sap.png" width="50" height="50" alt="SAP MM"/>
+<img src="./odoo.png" width="50" height="50" alt="Odoo"/>
+<img src="./oracle.png" width="50" height="50" alt="Oracle Cloud"/>
+<img src="./dynamics365.png" width="50" height="50" alt="Microsoft Dynamics 365"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏢 Pavos ERP
 
-**Enterprise Resource Planning & Business Management Platform**
+### Procurement & Supply Chain Management Platform
 
-A large-scale ERP platform designed to bring business operations into one integrated system.
+**Currently Building**
 
-### Areas of the platform
+Pavos is a procurement and supply chain management platform built for organizations that need clear visibility into purchasing, suppliers, budgets, inventory, and logistics.
 
-* Procurement & Purchasing
-* Supplier Management
-* Inventory Management
-* Logistics & Supply Chain
-* Tender Management
-* Supplier Intelligence
-* Business Analytics
-* Financial Operations
-* Organization Management
-* Workflow Automation
-* Dashboards & Reporting
-* AI-powered business capabilities
+It is designed to replace scattered spreadsheets and manual tracking with a connected workspace where teams can work from the same accurate data.
 
-**Focus:** Enterprise Software · ERP · SaaS · Business Automation · Data · Full-Stack Development
+### Core capabilities
 
-> 🚧 Actively developing and expanding
+* 📋 Purchase Requisitions
+* 🧾 Purchase Orders
+* 🤝 Supplier Management
+* 🧠 Supplier Intelligence
+* 📊 Supplier Scorecards
+* 🎯 Tender Tracking
+* 💰 Budget & Spend Management
+* 📦 Inventory Optimization
+* 🚚 Logistics Planning
+* 🧮 EOQ & Safety Stock Calculations
+* 💵 Landed Cost Analysis
+* 🌱 Carbon Footprint Tracking
+* 🏭 Warehouse Space Optimization
+* 🔔 Notifications & Alerts
+* 📑 Automated Documents & Reports
+* 🔐 Role-Based Access & Organization Isolation
+* 📝 Unified Audit Trail
+
+### Supplier Intelligence
+
+Pavos treats suppliers as more than entries in a database.
+
+Each supplier can have a detailed profile containing industry information, tags, registration details, years in operation, performance information, and documentation.
+
+Weighted supplier scorecards generate supplier grades, while document expiry alerts help organizations identify upcoming or expired certifications.
+
+### Budgets & Spend
+
+Department budgets are tracked against live committed spend derived from approved and completed requisitions.
+
+Dashboard alerts surface departments approaching or exceeding their allocated budgets, helping organizations identify potential overspending earlier.
+
+### Reporting & Notifications
+
+Pavos generates operational documents including purchase orders, supplier intelligence summaries, and calculation histories.
+
+A centralized notification system provides alerts for:
+
+* Overdue tenders
+* Expiring supplier documents
+* Budget concerns
+* Operational events
+
+Notifications can be surfaced inside the application and delivered through email.
+
+### Architecture & Scalability
+
+Each organization operates within its own secure database space, keeping organizational information isolated.
+
+The platform is designed to grow from a small procurement team into a multi-department organization while maintaining centralized data, access control, workflows, and auditability.
+
+**Focus:** ERP · Procurement Technology · Supply Chain · SaaS · Business Automation · Full-Stack Development
+
+> 🚧 **Pavos is currently under active development.**
 
 ---
 
-## 🌐 CLOVAforge Digital
+# 🌐 Web Development Projects
 
-**Digital Agency & Web Development Platform**
+## 01 — Meridian
 
-A modern digital agency platform focused on delivering professional websites, web applications, software products, and digital experiences.
+### Professional Services Website
 
-**Focus:** Web Development · UI/UX · Business Websites · SaaS · Digital Products
+A modern professional-services website designed to present a business, its services, value proposition, and digital presence through a polished responsive interface.
 
-> 🚧 Building
+**Type:** Business / Professional Services Website
+
+🔗 **Live Project:**
+https://meridian-co-omega.vercel.app/
 
 ---
 
-## 📊 Supply Chain KPI Dashboard
+## 02 — E-Commerce Platform
 
-A coded analytics dashboard that visualizes operational performance through key supply-chain metrics.
+### E-Commerce Website
 
-### Includes
+A modern e-commerce experience focused on product presentation, browsing, and an online purchasing journey.
+
+**Type:** E-Commerce
+
+🔗 **Live Project:**
+https://e-commernce-zeta.vercel.app/
+
+---
+
+## 03 — Fitness Coach
+
+### Fitness Coaching Website
+
+A professional fitness coaching website designed to showcase coaching services, programs, personal branding, and client-focused information.
+
+**Type:** Fitness / Personal Brand
+
+🔗 **Live Project:**
+https://fitness-seven-blond.vercel.app/
+
+---
+
+## 04 — Supply Chain KPI Dashboard
+
+### Procurement & Supply Chain Analytics
+
+A coded analytical dashboard built around operational supply chain KPIs.
+
+### Metrics include
 
 * On-Time Delivery Rate
 * Purchase Order Cycle Time
 * Supplier Quality Rate
 * Cost Savings vs Budget
-* Inventory Turnover
+* Inventory Turnover Ratio
 * Annual Spend by Category
-* KPI performance scorecard
 
 **Technologies:** Python · Matplotlib · Data Visualization
 
 ---
 
-## 📦 Inventory Optimization Model
+# 🏗️ What I'm Building
 
-An inventory analysis project implementing practical inventory-management models including:
+### Pavos ERP
 
-* Economic Order Quantity (EOQ)
-* ABC Analysis
-* Safety Stock
-* Reorder Points
-* Inventory Optimization
+My primary software project — developing a comprehensive procurement and supply chain platform covering:
 
-**Technologies:** Excel · Data Analysis · Inventory Modelling
+**Procurement → Suppliers → Tenders → Budgets → Inventory → Logistics → Analytics → Automation**
+
+The objective is to create software that addresses real operational problems faced by procurement and supply chain teams.
 
 ---
 
-# 💡 What Makes My Projects Different
+# 📊 Procurement Analytics
 
-My background gives me an unusual combination of **software development + business-domain knowledge**.
+I also work with data and analytical models to turn operational information into useful decision-making tools.
 
-Rather than building only demonstration applications, I like building software around complex real-world processes.
+Areas of interest include:
 
-That includes:
-
-**Business problem → workflow → data model → interface → backend logic → analytics → automation**
-
-This is particularly useful when building:
-
-* ERP systems
-* Procurement platforms
-* Inventory software
-* Supply-chain applications
-* Business dashboards
-* SaaS products
-* Internal enterprise tools
+* Supplier performance
+* Spend analysis
+* Inventory optimization
+* Procurement KPIs
+* Cost analysis
+* Demand planning
+* Supply chain performance
+* Operational dashboards
 
 ---
 
-# 📈 Currently Building
+# 🎓 Professional Development
 
-### 🚀 Pavos ERP
+My procurement and supply chain development includes exposure to:
 
-Expanding a complete ERP ecosystem with deeper:
+* Procurement Management
+* Supply Chain Management
+* ERP Systems
+* Contract Management
+* Inventory Management
+* Strategic Sourcing
+* Procurement Analytics
+* Public Procurement
+* Supplier Management
+* Logistics
 
-* Procurement workflows
-* Supplier intelligence
-* Tender tracking
-* Inventory management
-* Logistics planning
-* Business analytics
-* Multi-organization capabilities
-* Automation
-* AI-assisted workflows
-
-### 🌐 CLOVAforge Digital
-
-Building a professional digital presence and development platform for web and software services.
+I continue to develop my technical and professional capabilities through practical projects, software development, and industry-focused learning.
 
 ---
 
-# 🧠 Development Philosophy
+# 🎯 Professional Direction
+
+I am building toward a career at the intersection of:
 
 ```text
-Don't just build features.
-
-Understand the problem.
-Design the workflow.
-Build the system.
-Make it usable.
-Make it scalable.
-Ship it.
+PROCUREMENT
+     +
+SUPPLY CHAIN
+     +
+TECHNOLOGY
+     +
+DATA
+     ↓
+DIGITAL PROCUREMENT & ENTERPRISE TECHNOLOGY
 ```
 
-I care about building software that solves actual problems rather than simply checking boxes on a technology list.
+I am particularly interested in opportunities involving:
+
+* Procurement
+* Supply Chain
+* Procurement Technology
+* ERP Systems
+* Business Analysis
+* Supply Chain Analytics
+* Digital Transformation
+* Enterprise Software
+* Full-Stack Development
 
 ---
 
@@ -233,28 +371,28 @@ I care about building software that solves actual problems rather than simply ch
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:frankoduro1912@gmail.com">
-<img src="./gmail.png" width="50"/>
+<img src="./gmail.png" width="50" alt="Email"/>
 </a>
 
 <a href="https://x.com/odee_frank">
-<img src="./twitter.png" width="50"/>
+<img src="./twitter.png" width="50" alt="X"/>
 </a>
 
 <a href="https://www.instagram.com/_anonymoustroy">
-<img src="./instagram.png" width="50"/>
+<img src="./instagram.png" width="50" alt="Instagram"/>
 </a>
 
 <a href="https://github.com/Ofrank-design">
-<img src="./github.png" width="50"/>
+<img src="./github.png" width="50" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ofrank-design/">
-<img src="./linkedin.png" width="50"/>
+<img src="./linkedin.png" width="50" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -263,7 +401,9 @@ I care about building software that solves actual problems rather than simply ch
 
 <div align="center">
 
-### 💻 Building software. Solving problems. Shipping products.
+### 📦 Procurement. 🌐 Technology. 📊 Data. 🚀 Digital Transformation.
+
+**Building practical technology for real-world business problems.**
 
 📍 Ghana
 
