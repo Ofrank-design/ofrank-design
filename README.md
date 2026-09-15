@@ -126,34 +126,37 @@ This perspective is what led me to start building **Pavos**, a procurement and s
 </p>
 
 ---
-
 # 📦 Procurement & Supply Chain
 
 ### Procurement
 
-* Strategic Sourcing
-* Procurement Planning
-* Purchase Requisitions
-* Purchase Orders
-* RFQs & Tendering
-* Supplier Evaluation
-* Contract Management
-* Spend Analysis
-* Total Cost of Ownership
-* Procurement Compliance
+<p>
+<img src="https://img.shields.io/badge/Strategic%20Sourcing-14532D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Procurement%20Planning-166534?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Purchase%20Requisitions-15803D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Purchase%20Orders-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RFQs%20%26%20Tendering-047857?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supplier%20Evaluation-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contract%20Management-0D9488?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spend%20Analysis-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Total%20Cost%20of%20Ownership-0369A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Procurement%20Compliance-1D4ED8?style=for-the-badge" />
+</p>
 
 ### Supply Chain
 
-* Inventory Management
-* EOQ Modelling
-* ABC Analysis
-* Safety Stock
-* Reorder Points
-* Demand & Supply Planning
-* Logistics Planning
-* Supplier Performance
-* Supply Chain KPIs
-* Operational Analytics
+<p>
+<img src="https://img.shields.io/badge/Inventory%20Management-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EOQ%20Modelling-4338CA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ABC%20Analysis-5B21B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Safety%20Stock-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reorder%20Points-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Demand%20%26%20Supply%20Planning-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Logistics%20Planning-A21CAF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supplier%20Performance-C026D3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supply%20Chain%20KPIs-DB2777?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operational%20Analytics-BE123C?style=for-the-badge" />
+</p>
 
 ### Enterprise Systems
 
