@@ -362,7 +362,8 @@ I am particularly interested in opportunities involving:
 
 ---
 
-# 📊 GitHub Stats
+</p>
+<h2 align="center">🏆 GitHub Trophies </h2>
 
 <div align="center">
 
@@ -379,9 +380,8 @@ I am particularly interested in opportunities involving:
 </div>
 
 ---
-
-# 🤝 Connect With Me
-
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
 <div align="center">
 
 <a href="mailto:frankoduro1912@gmail.com">
