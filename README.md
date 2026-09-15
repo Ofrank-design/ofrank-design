@@ -360,60 +360,85 @@ I am particularly interested in opportunities involving:
 * Enterprise Software
 * Full-Stack Development
 
+
+<h2 align="center">⚡ GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
+    width="49%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+    width="45%"
+    alt="Top Languages"
+  />
 ---
 
-</p>
 <h2 align="center">🏆 GitHub Trophies </h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9" width="49%"/>
+<h2 align="center">💻 Development Activity</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" width="45%"/>
 
-</div>
-
----
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+  
+<a href="mailto:frankoduro1912@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="frankoduro1912@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/odee_frank" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="odee_frank" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_anonymoustroy" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="_anonymoustroy" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/ofrank-design" target="_blank">
+<img src="./github.png" width=50 height=50 alt="ofrank-design" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ofrank-design/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
 <div align="center">
 
-<a href="mailto:frankoduro1912@gmail.com">
-<img src="./gmail.png" width="50" alt="Email"/>
-</a>
-
-<a href="https://x.com/odee_frank">
-<img src="./twitter.png" width="50" alt="X"/>
-</a>
-
-<a href="https://www.instagram.com/_anonymoustroy">
-<img src="./instagram.png" width="50" alt="Instagram"/>
-</a>
-
-<a href="https://github.com/Ofrank-design">
-<img src="./github.png" width="50" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ofrank-design/">
-<img src="./linkedin.png" width="50" alt="LinkedIn"/>
-</a>
-
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/ofrankdesign" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
----
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 <div align="center">
 
 ### 📦 Procurement. 🌐 Technology. 📊 Data. 🚀 Digital Transformation.
 
 **Building practical technology for real-world business problems.**
-
-📍 Ghana
 
 </div>
