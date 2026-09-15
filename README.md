@@ -133,8 +133,6 @@ This perspective is what led me to start building **Pavos**, a procurement and s
 <p>
 <img src="https://img.shields.io/badge/Strategic%20Sourcing-14532D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Procurement%20Planning-166534?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Purchase%20Requisitions-15803D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Purchase%20Orders-0F766E?style=for-the-b
 </p>
 
 ### Supply Chain
@@ -142,8 +140,6 @@ This perspective is what led me to start building **Pavos**, a procurement and s
 <p>
 <img src="https://img.shields.io/badge/Inventory%20Management-1E40AF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/EOQ%20Modelling-4338CA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ABC%20Analysis-5B21B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Safety%20Stock-6D28D9?style=for-the-badge" />
 </p>
 
 ### Enterprise Systems
