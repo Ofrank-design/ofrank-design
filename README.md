@@ -1,4 +1,10 @@
-<div align="center">
+<img width="10244" height="2566" alt="b232ef05-4a4a-4207-9764-d5f1c7c6ee4a" src="https://github.com/user-attachments/assets/84392803-d248-4450-9d78-949cdba8589e" />
+
+<!--Night Owl image-->
+
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 # 👋 Hi, I'm Frank Oduro
 
