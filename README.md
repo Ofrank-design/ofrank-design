@@ -360,43 +360,60 @@ I am particularly interested in opportunities involving:
 * Enterprise Software
 * Full-Stack Development
 
-
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
-    width="49%"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Ofrank-design">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
+      width="49%"
+      alt="Frank Oduro's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Ofrank-design">
+    <img
+      src="https://streak-stats.demolab.com/?user=Ofrank-design&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=C9D1D9"
+      width="49%"
+      alt="Frank Oduro's GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF"
-    width="45%"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Ofrank-design">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9"
+      width="45%"
+      alt="Frank Oduro's Top Languages"
+    />
+  </a>
+</p>
+
 ---
 
-<h2 align="center">🏆 GitHub Trophies </h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"/>
+  <img
+    src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"
+    width="100%"
+    alt="Frank Oduro's GitHub Trophies"
+  />
 </p>
 
+---
 
 <h2 align="center">💻 Development Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night&hide_border=true&area=true"/>
+  <a href="https://github.com/Ofrank-design">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=C9D1D9&area=true&hide_border=true"
+      width="100%"
+      alt="Frank Oduro's GitHub Development Activity"
+    />
+  </a>
 </p>
-
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
