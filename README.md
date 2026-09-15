@@ -22,6 +22,22 @@ I combine procurement and supply chain knowledge with software development to bu
 <img src="https://img.shields.io/badge/GitHub-Ofrank--design-7DF9FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" width="60%" alt="Tech Stack" src="./Skills_Animation_White.gif"/>
+</picture>
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 ---
