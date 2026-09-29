@@ -39,9 +39,9 @@ I combine procurement and supply chain knowledge with software development to bu
 
 
 
-</div>
 
----
+
+
 **Building practical software for procurement workflows, supply chain visibility, and operational decision-making.**
 
 <br />
