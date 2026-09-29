@@ -7,16 +7,13 @@
 </div>
 <div align="center">
 
-# 👋 Hi, I'm Frank Oduro
+## `Hi_I'm Frank_Oduro`
 
 ### Procurement Technology Builder · Full-Stack Web Developer · Supply Chain Systems
-
-**Procurement** · **Supply Chain** · **ERP Systems** · **Business Automation** · **SaaS** · **Analytics**
 
 I combine procurement and supply chain knowledge with software development to build practical digital solutions for purchasing, suppliers, inventory, logistics, analytics, and business operations.
 
 <br />
-
 <a href="https://ofrank-design.github.io">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7DF9FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio Website"/>
 </a>
