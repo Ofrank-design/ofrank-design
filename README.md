@@ -387,6 +387,7 @@ Stack: Frontend Development · Responsive Design · Deployment
 
 ## E-Commerce Platform
 <img width="1320" height="639" alt="Screenshot 2026-09-29 065712" src="https://github.com/user-attachments/assets/eef7c374-98d1-4eee-a130-ec24acc55ed9" />
+
 ### Online Shopping Experience
 
 A modern e-commerce interface built around product discovery, visual product presentation, browsing flow, and a customer-focused purchase journey.
