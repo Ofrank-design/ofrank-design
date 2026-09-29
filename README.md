@@ -5,7 +5,7 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-<div align="center">
+
 
 ## `Hi_I'm Frank_Oduro`
 
