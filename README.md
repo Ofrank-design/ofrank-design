@@ -369,7 +369,7 @@ design_principles:
 
 ---
 
-# `02` — Web Projects
+# `02`  Web Projects
 
 ## Meridian
 
