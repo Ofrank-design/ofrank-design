@@ -5,23 +5,27 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+<div align="center">
 
 # 👋 Hi, I'm Frank Oduro
 
-### Procurement & Supply Chain Specialist | Full-Stack Web Developer
+### Procurement Technology Builder · Full-Stack Web Developer · Supply Chain Systems
 
-**Procurement • Supply Chain • ERP • Business Technology • Web Development**
+**Procurement** · **Supply Chain** · **ERP Systems** · **Business Automation** · **SaaS** · **Analytics**
 
 I combine procurement and supply chain knowledge with software development to build practical digital solutions for purchasing, suppliers, inventory, logistics, analytics, and business operations.
 
+<br />
+
 <a href="https://ofrank-design.github.io">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7DF9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7DF9FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio Website"/>
 </a>
 
 <a href="https://github.com/Ofrank-design">
-<img src="https://img.shields.io/badge/GitHub-Ofrank--design-7DF9FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-Ofrank--design-7DF9FF?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub Profile"/>
 </a>
 
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -41,38 +45,15 @@ I combine procurement and supply chain knowledge with software development to bu
 </div>
 
 ---
-
-# 👨‍💼 About Me
-
-I am a **Procurement & Supply Chain Management professional** with a strong interest in the intersection between **business operations and technology**.
-
-My work focuses on understanding how organizations purchase, manage suppliers, control inventory, coordinate logistics, manage contracts, and make operational decisions — and using technology to make those processes more efficient, transparent, and data-driven.
-
-Alongside my procurement and supply chain specialization, I have developed practical experience in **full-stack web development**, building complete websites and business applications from frontend interfaces to backend functionality and data-driven systems.
-
-### My professional focus
-
-* 📦 Procurement & Purchasing
-* 🚚 Supply Chain Management
-* 🤝 Supplier Management
-* 📊 Procurement & Supply Chain Analytics
-* 🏢 ERP & Business Management Systems
-* 📋 Contract & Tender Management
-* 📈 Inventory Optimization
-* 🌐 Full-Stack Web Development
-* 💻 Business Applications & SaaS
-* ⚙️ Digital Process Automation
-
----
 <div align="center">
 
-# Frank Oduro
+### 📦 Procurement Technology Builder · 🌐 Full-Stack Developer · 📊 Supply Chain Systems
 
-### Procurement Technology Builder · Full-Stack Developer · Supply Chain Systems Enthusiast
+**Building practical software for procurement workflows, supply chain visibility, and operational decision-making.**
 
-<p>
-  I design and build digital tools for procurement, supply chain visibility, and operational decision-making.
-</p>
+<br />
+
+`PROCUREMENT` · `SUPPLY CHAIN` · `ERP SYSTEMS` · `B2B SAAS` · `AUTOMATION` · `ANALYTICS`
 
 <p>
   <a href="https://github.com/Ofrank-design">
@@ -82,6 +63,55 @@ Alongside my procurement and supply chain specialization, I have developed pract
 </p>
 
 </div>
+
+---
+
+## `about_me`
+
+I work at the intersection of **procurement operations, supply chain systems, and software development**.
+
+My focus is understanding how organizations purchase goods and services, manage suppliers, control inventory, coordinate logistics, monitor budgets, and make operational decisions—then translating those workflows into digital tools that are more structured, transparent, and data-driven.
+
+Alongside my procurement and supply chain background, I build full-stack websites and business applications: from responsive user interfaces to data models, APIs, dashboards, and workflow automation.
+
+```text
+Business Process
+      ↓
+Workflow Design
+      ↓
+Data & Requirements
+      ↓
+Software Product
+      ↓
+Automation & Analytics
+      ↓
+Better Operational Decisions
+```
+
+### `focus_areas`
+
+```yaml
+procurement:
+  - Purchasing workflows
+  - Supplier management
+  - Tender and contract processes
+  - Budget and spend visibility
+
+supply_chain:
+  - Inventory management
+  - Logistics coordination
+  - Inventory optimization
+  - Supplier performance
+
+technology:
+  - Full-stack web development
+  - ERP and business systems
+  - SaaS product development
+  - Business process automation
+  - Procurement and supply chain analytics
+```
+
+> Currently building **Pavos** — a procurement and supply chain platform for supplier management, purchasing workflows, budgets, inventory, logistics, analytics, and operational automation.
 
 ---
 
@@ -511,10 +541,8 @@ I am building toward opportunities in:
 </p>
 
 
-<div align="center">
+<br />
 
-### 📦 Procurement. 🌐 Technology. 📊 Data. 🚀 Digital Transformation.
-
-**Building practical technology for real-world business problems.**
+`PROCUREMENT` · `SUPPLY CHAIN` · `SAAS` · `AUTOMATION` · `ANALYTICS`
 
 </div>
