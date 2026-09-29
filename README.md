@@ -249,7 +249,7 @@ Better Decisions
 
 ---
 
-# `01` — Pavos ERP
+# `01`  Pavos ERP
 <img width="1672" height="941" alt="ChatGPT Image Sep 28, 2026, 01_50_43 AM" src="https://github.com/user-attachments/assets/0d6a8aa5-2e14-400c-996c-6b439ab4c4d4" />
 
 ## Procurement & Supply Chain Operating System
