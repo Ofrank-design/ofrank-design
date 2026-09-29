@@ -373,6 +373,8 @@ design_principles:
 
 ## Meridian
 
+<img width="1347" height="646" alt="Screenshot 2026-09-29 065250" src="https://github.com/user-attachments/assets/71ace509-ea58-4d9b-8f92-aca1bb896d9d" />
+
 ### Professional Services Website
 
 A responsive business website focused on communicating a company’s value proposition, services, credibility, and digital presence through a polished interface.
@@ -381,7 +383,7 @@ A responsive business website focused on communicating a company’s value propo
 Type: Professional Services Website
 Stack: Frontend Development · Responsive Design · Deployment
 ```
-<img width="1347" height="646" alt="Screenshot 2026-09-29 065250" src="https://github.com/user-attachments/assets/71ace509-ea58-4d9b-8f92-aca1bb896d9d" />
+
 🔗 [View Live Project](https://meridian-co-omega.vercel.app/)
 
 ---
