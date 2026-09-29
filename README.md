@@ -45,10 +45,6 @@ I combine procurement and supply chain knowledge with software development to bu
 </div>
 
 ---
-<div align="center">
-
-### 📦 Procurement Technology Builder · 🌐 Full-Stack Developer · 📊 Supply Chain Systems
-
 **Building practical software for procurement workflows, supply chain visibility, and operational decision-making.**
 
 <br />
