@@ -250,7 +250,7 @@ Better Decisions
 ---
 
 # `01` — Pavos ERP
-<img width="1671" height="941" alt="ChatGPT Image Sep 28, 2026, 01_52_17 AM" src="https://github.com/user-attachments/assets/bb8f32a7-5be2-48f5-a945-38f60a44c502" />
+<img width="1672" height="941" alt="ChatGPT Image Sep 28, 2026, 01_50_43 AM" src="https://github.com/user-attachments/assets/0d6a8aa5-2e14-400c-996c-6b439ab4c4d4" />
 
 ## Procurement & Supply Chain Operating System
 
@@ -487,18 +487,21 @@ ENTERPRISE TECHNOLOGY
 BUSINESS AUTOMATION
 ```
 
-I am building toward opportunities in:
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│   I am building toward opportunities in                          │
+│   Procurement technology                                         │
+│   Supply chain systems                                           │
+│   Enterprise software                                            │
+│   ERP implementation and development                             │
+│   Business analysis                                              │
+│   Digital transformation                                         │
+│   Procurement analytics                                          │
+│   Full-stack web development                                     │
+│   SaaS product development Operations and workflow automation    │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-- Procurement technology
-- Supply chain systems
-- Enterprise software
-- ERP implementation and development
-- Business analysis
-- Digital transformation
-- Procurement analytics
-- Full-stack web development
-- SaaS product development
-- Operations and workflow automation
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
