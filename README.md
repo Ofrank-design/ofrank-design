@@ -250,6 +250,7 @@ Better Decisions
 ---
 
 # `01` — Pavos ERP
+<img width="1671" height="941" alt="ChatGPT Image Sep 28, 2026, 01_52_17 AM" src="https://github.com/user-attachments/assets/bb8f32a7-5be2-48f5-a945-38f60a44c502" />
 
 ## Procurement & Supply Chain Operating System
 
@@ -402,6 +403,7 @@ Focus: Product UI · Shopping Flow · Responsive Layout
 ---
 
 ## Fitness Coach
+<img width="1356" height="632" alt="Screenshot 2026-09-29 070351" src="https://github.com/user-attachments/assets/721729d2-c458-4a0e-b03c-0fa32a97aa53" />
 
 ### Personal Brand & Coaching Website
 
