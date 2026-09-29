@@ -64,337 +64,415 @@ Alongside my procurement and supply chain specialization, I have developed pract
 * ⚙️ Digital Process Automation
 
 ---
+<div align="center">
 
-# 🧠 The Intersection
+# Frank Oduro
 
-My goal isn't simply to work in procurement or simply to write code.
+### Procurement Technology Builder · Full-Stack Developer · Supply Chain Systems Enthusiast
 
-I am interested in **using technology to solve real procurement and supply chain problems**.
+<p>
+  I design and build digital tools for procurement, supply chain visibility, and operational decision-making.
+</p>
 
-That means understanding the business process first and then thinking about how software can improve it:
+<p>
+  <a href="https://github.com/Ofrank-design">
+    <img src="https://img.shields.io/github/followers/Ofrank-design?label=Follow&style=for-the-badge&logo=github&color=0F172A" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ofrank-design&style=for-the-badge&color=0EA5E9" alt="Profile views" />
+</p>
+
+</div>
+
+---
 
 ```text
-Business Problem
-       ↓
-Process & Workflow
-       ↓
-Data & Requirements
-       ↓
-Software Solution
-       ↓
+┌──────────────────────────────────────────────────────────────────┐
+│  BUSINESS OPERATIONS + SOFTWARE ENGINEERING + DATA               │
+│                                                                  │
+│  Procurement workflows → Digital systems → Automation → Insight  │
+│                                                                  │
+│  Building practical tools for better purchasing, supplier,       │
+│  inventory, budget, and logistics decisions.                     │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+## `whoami`
+
+```js
+const frank = {
+  location: "Accra, Ghana",
+  focus: [
+    "Procurement Technology",
+    "Supply Chain Systems",
+    "Full-Stack Web Development",
+    "Business Process Automation",
+    "Analytics & Decision Support"
+  ],
+  currentlyBuilding: "Pavos — Procurement & Supply Chain ERP",
+  mission: "Turn fragmented operational workflows into connected software systems."
+};
+```
+
+I am interested in more than just procurement and more than just coding.
+
+My work sits at the intersection of **business operations, technology, and data**. I start by understanding how a process works in the real world, identify the bottlenecks, then design software that makes that process more visible, structured, and scalable.
+
+```text
+Operational Challenge
+        ↓
+Workflow Analysis
+        ↓
+Data Model & Business Rules
+        ↓
+Software Interface
+        ↓
 Automation
-       ↓
+        ↓
 Analytics & Visibility
-       ↓
+        ↓
 Better Decisions
 ```
 
-This perspective is what led me to start building **Pavos**, a procurement and supply chain management platform designed around real organizational workflows.
+---
+
+## `stack`
+
+### Frontend Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+### Backend, APIs & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Development Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
 ---
 
-# 🛠️ Technical Skills
+## `domain_expertise`
 
-## 💻 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-# 📦 Procurement & Supply Chain
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Procurement
 
-<p>
-<img src="https://img.shields.io/badge/Strategic%20Sourcing-14532D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Procurement%20Planning-166534?style=for-the-badge" />
-</p>
+```text
+✓ Strategic sourcing
+✓ Procurement planning
+✓ Purchase requisitions
+✓ Purchase orders
+✓ Tender management
+✓ Supplier evaluation
+✓ Contract awareness
+✓ Budget monitoring
+```
+
+</td>
+<td width="50%" valign="top">
 
 ### Supply Chain
 
-<p>
-<img src="https://img.shields.io/badge/Inventory%20Management-1E40AF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EOQ%20Modelling-4338CA?style=for-the-badge" />
-</p>
+```text
+✓ Inventory management
+✓ EOQ modelling
+✓ Safety stock concepts
+✓ Landed-cost analysis
+✓ Logistics planning
+✓ Warehouse optimization
+✓ Supplier performance
+✓ Operational KPIs
+```
+
+</td>
+</tr>
+</table>
 
 ### Enterprise Systems
 
 <p>
-<img src="./sap.png" width="50" height="50" alt="SAP MM"/>
-<img src="./odoo.png" width="50" height="50" alt="Odoo"/>
-<img src="./oracle.png" width="50" height="50" alt="Oracle Cloud"/>
-<img src="./dynamics365.png" width="50" height="50" alt="Microsoft Dynamics 365"/>
+  <img src="./sap.png" width="48" height="48" alt="SAP MM"/>
+  &nbsp;&nbsp;
+  <img src="./odoo.png" width="48" height="48" alt="Odoo"/>
+  &nbsp;&nbsp;
+  <img src="./oracle.png" width="48" height="48" alt="Oracle Cloud"/>
+  &nbsp;&nbsp;
+  <img src="./dynamics365.png" width="48" height="48" alt="Microsoft Dynamics 365"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 🏢 Pavos ERP
-
-### Procurement & Supply Chain Management Platform
-
-**Currently Building**
-
-Pavos is a procurement and supply chain management platform built for organizations that need clear visibility into purchasing, suppliers, budgets, inventory, and logistics.
-
-It is designed to replace scattered spreadsheets and manual tracking with a connected workspace where teams can work from the same accurate data.
-
-### Core capabilities
-
-* 📋 Purchase Requisitions
-* 🧾 Purchase Orders
-* 🤝 Supplier Management
-* 🧠 Supplier Intelligence
-* 📊 Supplier Scorecards
-* 🎯 Tender Tracking
-* 💰 Budget & Spend Management
-* 📦 Inventory Optimization
-* 🚚 Logistics Planning
-* 🧮 EOQ & Safety Stock Calculations
-* 💵 Landed Cost Analysis
-* 🌱 Carbon Footprint Tracking
-* 🏭 Warehouse Space Optimization
-* 🔔 Notifications & Alerts
-* 📑 Automated Documents & Reports
-* 🔐 Role-Based Access & Organization Isolation
-* 📝 Unified Audit Trail
-
-### Supplier Intelligence
-
-Pavos treats suppliers as more than entries in a database.
-
-Each supplier can have a detailed profile containing industry information, tags, registration details, years in operation, performance information, and documentation.
-
-Weighted supplier scorecards generate supplier grades, while document expiry alerts help organizations identify upcoming or expired certifications.
-
-### Budgets & Spend
-
-Department budgets are tracked against live committed spend derived from approved and completed requisitions.
-
-Dashboard alerts surface departments approaching or exceeding their allocated budgets, helping organizations identify potential overspending earlier.
-
-### Reporting & Notifications
-
-Pavos generates operational documents including purchase orders, supplier intelligence summaries, and calculation histories.
-
-A centralized notification system provides alerts for:
-
-* Overdue tenders
-* Expiring supplier documents
-* Budget concerns
-* Operational events
-
-Notifications can be surfaced inside the application and delivered through email.
-
-### Architecture & Scalability
-
-Each organization operates within its own secure database space, keeping organizational information isolated.
-
-The platform is designed to grow from a small procurement team into a multi-department organization while maintaining centralized data, access control, workflows, and auditability.
-
-**Focus:** ERP · Procurement Technology · Supply Chain · SaaS · Business Automation · Full-Stack Development
-
-> 🚧 **Pavos is currently under active development.**
+> Exploring how enterprise workflows, data structures, approvals, roles, reporting, and automation translate into modern software products.
 
 ---
 
-# 🌐 Web Development Projects
+# `01` — Pavos ERP
 
-## 01 — Meridian
+## Procurement & Supply Chain Operating System
+
+> **Status:** `ACTIVE DEVELOPMENT`  
+> **Category:** `B2B SaaS · ERP · Procurement Technology · Supply Chain`
+
+**Pavos** is a procurement and supply chain management platform designed to help organizations replace disconnected spreadsheets, manual follow-ups, and fragmented records with one connected operational workspace.
+
+The goal is simple:
+
+```text
+One organization
+     +
+One connected source of truth
+     +
+Structured workflows
+     +
+Real-time operational visibility
+     =
+Better purchasing and supply chain decisions
+```
+
+### Platform Modules
+
+| Area | Capabilities |
+|---|---|
+| `PROCUREMENT` | Purchase requisitions, approval workflows, purchase orders, tender tracking |
+| `SUPPLIERS` | Supplier profiles, document storage, supplier scorecards, supplier intelligence |
+| `FINANCE` | Budget allocation, committed spend, spend visibility, overspending alerts |
+| `INVENTORY` | Inventory optimization, EOQ calculations, safety stock analysis |
+| `LOGISTICS` | Logistics planning, landed-cost analysis, freight and carbon tracking |
+| `WAREHOUSE` | Warehouse space optimization and storage planning |
+| `ANALYTICS` | Procurement KPIs, supplier performance, operational reporting |
+| `GOVERNANCE` | Role-based access, audit trails, organization-level data isolation |
+| `AUTOMATION` | Notifications, alerts, document generation, reporting workflows |
+
+### Core Workflow
+
+```text
+Purchase Requisition
+        ↓
+Approval Workflow
+        ↓
+Supplier Selection / Tender
+        ↓
+Purchase Order
+        ↓
+Delivery & Inventory Update
+        ↓
+Spend Tracking & Reporting
+        ↓
+Audit Trail + Analytics
+```
+
+### Supplier Intelligence Engine
+
+Pavos treats supplier records as operational assets rather than static contact entries.
+
+Each supplier profile can contain:
+
+- Company and industry information
+- Supplier categories and tags
+- Registration and compliance documents
+- Years of operation
+- Performance history
+- Expiry dates for certifications and documents
+- Weighted supplier scorecards
+- Supplier grading and performance indicators
+
+```text
+Supplier Data
+      +
+Performance Metrics
+      +
+Compliance Status
+      +
+Weighted Scorecards
+      ↓
+Supplier Intelligence
+```
+
+### Budget & Spend Visibility
+
+Pavos is designed to connect approved purchasing activity to departmental budget tracking.
+
+```text
+Allocated Budget
+      −
+Committed Spend
+      =
+Available Budget
+```
+
+This makes it easier to identify:
+
+- Departments approaching budget limits
+- Potential overspending before it becomes critical
+- Spend by department, category, supplier, or period
+- Procurement activity that affects financial planning
+
+### Architecture Principles
+
+```yaml
+design_principles:
+  - Multi-organization data isolation
+  - Role-based access control
+  - Structured approval workflows
+  - Centralized operational records
+  - Auditability by default
+  - Modular ERP architecture
+  - Scalable feature expansion
+  - Data-driven reporting
+```
+
+> 🚧 Pavos is under active development and evolving through continuous design, prototyping, and implementation.
+
+---
+
+# `02` — Web Projects
+
+## Meridian
 
 ### Professional Services Website
 
-A modern professional-services website designed to present a business, its services, value proposition, and digital presence through a polished responsive interface.
+A responsive business website focused on communicating a company’s value proposition, services, credibility, and digital presence through a polished interface.
 
-**Type:** Business / Professional Services Website
+```text
+Type: Professional Services Website
+Stack: Frontend Development · Responsive Design · Deployment
+```
 
-🔗 **Live Project:**
-https://meridian-co-omega.vercel.app/
-
----
-
-## 02 — E-Commerce Platform
-
-### E-Commerce Website
-
-A modern e-commerce experience focused on product presentation, browsing, and an online purchasing journey.
-
-**Type:** E-Commerce
-
-🔗 **Live Project:**
-https://e-commernce-zeta.vercel.app/
+🔗 [View Live Project](https://meridian-co-omega.vercel.app/)
 
 ---
 
-## 03 — Fitness Coach
+## E-Commerce Platform
 
-### Fitness Coaching Website
+### Online Shopping Experience
 
-A professional fitness coaching website designed to showcase coaching services, programs, personal branding, and client-focused information.
+A modern e-commerce interface built around product discovery, visual product presentation, browsing flow, and a customer-focused purchase journey.
 
-**Type:** Fitness / Personal Brand
+```text
+Type: E-Commerce Website
+Focus: Product UI · Shopping Flow · Responsive Layout
+```
 
-🔗 **Live Project:**
-https://fitness-seven-blond.vercel.app/
+🔗 [View Live Project](https://e-commernce-zeta.vercel.app/)
 
 ---
 
-## 04 — Supply Chain KPI Dashboard
+## Fitness Coach
+
+### Personal Brand & Coaching Website
+
+A professional website designed for a fitness coach to communicate services, programs, personal brand positioning, and client information.
+
+```text
+Type: Fitness / Personal Brand Website
+Focus: Service Presentation · Branding · Responsive Web Design
+```
+
+🔗 [View Live Project](https://fitness-seven-blond.vercel.app/)
+
+---
+
+## Supply Chain KPI Dashboard
 
 ### Procurement & Supply Chain Analytics
 
-A coded analytical dashboard built around operational supply chain KPIs.
+A coded dashboard focused on presenting operational supply chain performance through key performance indicators.
 
-### Metrics include
+```text
+Metrics Tracked:
+├── On-time delivery rate
+├── Purchase order cycle time
+├── Supplier quality rate
+├── Cost savings vs. budget
+├── Inventory turnover ratio
+└── Annual spend by category
+```
 
-* On-Time Delivery Rate
-* Purchase Order Cycle Time
-* Supplier Quality Rate
-* Cost Savings vs Budget
-* Inventory Turnover Ratio
-* Annual Spend by Category
-
-**Technologies:** Python · Matplotlib · Data Visualization
-
----
-
-# 🏗️ What I'm Building
-
-### Pavos ERP
-
-My primary software project — developing a comprehensive procurement and supply chain platform covering:
-
-**Procurement → Suppliers → Tenders → Budgets → Inventory → Logistics → Analytics → Automation**
-
-The objective is to create software that addresses real operational problems faced by procurement and supply chain teams.
+```text
+Tools: Python · Matplotlib · Data Visualization · KPI Analysis
+```
 
 ---
 
-# 📊 Procurement Analytics
+## `analytics`
 
-I also work with data and analytical models to turn operational information into useful decision-making tools.
+I am interested in using operational data to support faster, clearer, and more accountable business decisions.
 
-Areas of interest include:
+```python
+procurement_analytics = [
+    "Supplier performance analysis",
+    "Spend analysis",
+    "Inventory optimization",
+    "Procurement KPI tracking",
+    "Cost analysis",
+    "Demand planning",
+    "Budget monitoring",
+    "Supply chain performance dashboards"
+]
+```
 
-* Supplier performance
-* Spend analysis
-* Inventory optimization
-* Procurement KPIs
-* Cost analysis
-* Demand planning
-* Supply chain performance
-* Operational dashboards
+### Example Questions I Want Software to Answer
 
----
-
-# 🎓 Professional Development
-
-My procurement and supply chain development includes exposure to:
-
-* Procurement Management
-* Supply Chain Management
-* ERP Systems
-* Contract Management
-* Inventory Management
-* Strategic Sourcing
-* Procurement Analytics
-* Public Procurement
-* Supplier Management
-* Logistics
-
-I continue to develop my technical and professional capabilities through practical projects, software development, and industry-focused learning.
+```text
+-  Which suppliers consistently meet delivery expectations?
+-  Which departments are close to exceeding budget?
+-  What categories account for the highest spend?
+-  Which inventory items need replenishment?
+-  How long does it take to move from requisition to purchase order?
+-  Which supplier documents are about to expire?
+-  Where can procurement processes be automated?
+```
 
 ---
 
-# 🎯 Professional Direction
-
-I am building toward a career at the intersection of:
+## `career_direction`
 
 ```text
 PROCUREMENT
      +
 SUPPLY CHAIN
      +
-TECHNOLOGY
+SOFTWARE ENGINEERING
      +
-DATA
+DATA & ANALYTICS
      ↓
-DIGITAL PROCUREMENT & ENTERPRISE TECHNOLOGY
+DIGITAL PROCUREMENT SYSTEMS
+ENTERPRISE TECHNOLOGY
+BUSINESS AUTOMATION
 ```
 
-I am particularly interested in opportunities involving:
+I am building toward opportunities in:
 
-* Procurement
-* Supply Chain
-* Procurement Technology
-* ERP Systems
-* Business Analysis
-* Supply Chain Analytics
-* Digital Transformation
-* Enterprise Software
-* Full-Stack Development
-
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ofrank-design&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    width="45%"
-    alt="Top Programming Languages"
-  />
-</p>
-
----
-
-<h2 align="center">💻 Development Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Development Activity"
-  />
-</p>
-
+- Procurement technology
+- Supply chain systems
+- Enterprise software
+- ERP implementation and development
+- Business analysis
+- Digital transformation
+- Procurement analytics
+- Full-stack web development
+- SaaS product development
+- Operations and workflow automation
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
