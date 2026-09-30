@@ -536,6 +536,14 @@ BUSINESS AUTOMATION
 </div>
 
 
+
+<h2 align="center">🏆 GitHub Trophies </h2>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Ofrank-design&theme=matrix&no-frame=true&no-bg=true&column=6"/>
+</p>
+
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
