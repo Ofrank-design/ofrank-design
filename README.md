@@ -420,6 +420,18 @@ Focus: Service Presentation · Branding · Responsive Web Design
 
 ---
 
+### Vanta Perfermance
+<img width="1349" height="646" alt="Screenshot 2026-09-30 104612" src="https://github.com/user-attachments/assets/ff11bd80-0572-44a3-a6b4-73c1f3099e48" />
+
+A premium website designed for a fitness coach to onboard clients, explore services, brand assessments  and programns.
+
+```text
+Type: Fitness / Personal Brand Website
+Focus: Service Presentation · Branding · Responsive Web Design Memberships
+```
+🔗 [View Live Project](https://vercel.com/of-design/vanta_performance)
+
+
 ## Supply Chain KPI Dashboard
 
 ### Procurement & Supply Chain Analytics
