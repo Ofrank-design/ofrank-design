@@ -503,58 +503,7 @@ BUSINESS AUTOMATION
 │   SaaS product development Operations and workflow automation    │
 └──────────────────────────────────────────────────────────────────┘
 ```
-## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b&icon_color=2563eb"
-    height="170"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b"
-    height="170"
-    alt="Top programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ofrank-design&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ofrank-design&bg_color=ffffff00&color=64748b&line=2563eb&point=2563eb&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ofrank-design/Ofrank-design/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ofrank-design/Ofrank-design/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Ofrank-design/Ofrank-design/output/github-snake.svg"
-      alt="GitHub contribution snake animation"
-    />
-  </picture>
-</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
