@@ -1,52 +1,4 @@
-name: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate-stats:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          github_user: Ofrank-design
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate stats cards
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          mkdir -p profile
-
-          curl -L \
-            "https://github-readme-stats.vercel.app/api?username=Ofrank-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=7DF9FF" \
-            -o profile/stats.svg
-
-          curl -L \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=Ofrank-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" \
-            -o profile/top-langs.svg
-
-      - name: Commit generated stats
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add profile/
-          git commit -m "Update GitHub statistics" || exit 0
-          git push
-          name: Generate Contribution Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -62,14 +14,16 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ofrank-design
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish animation
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
