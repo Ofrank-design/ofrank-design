@@ -250,8 +250,6 @@ Better Decisions
 ---
 
 # `01`  Pavos ERP
-<img width="1672" height="941" alt="ChatGPT Image Sep 28, 2026, 01_50_43 AM" src="https://github.com/user-attachments/assets/0d6a8aa5-2e14-400c-996c-6b439ab4c4d4" />
-
 ## Procurement & Supply Chain Operating System
 
 > **Status:** `ACTIVE DEVELOPMENT`  
@@ -373,8 +371,6 @@ design_principles:
 
 ## Meridian
 
-<img width="1347" height="646" alt="Screenshot 2026-09-29 065250" src="https://github.com/user-attachments/assets/71ace509-ea58-4d9b-8f92-aca1bb896d9d" />
-
 ### Professional Services Website
 
 A responsive business website focused on communicating a company’s value proposition, services, credibility, and digital presence through a polished interface.
@@ -383,13 +379,11 @@ A responsive business website focused on communicating a company’s value propo
 Type: Professional Services Website
 Stack: Frontend Development · Responsive Design · Deployment
 ```
-
 🔗 [View Live Project](https://meridian-co-omega.vercel.app/)
 
 ---
 
 ## E-Commerce Platform
-<img width="1320" height="639" alt="Screenshot 2026-09-29 065712" src="https://github.com/user-attachments/assets/eef7c374-98d1-4eee-a130-ec24acc55ed9" />
 
 ### Online Shopping Experience
 
@@ -405,7 +399,6 @@ Focus: Product UI · Shopping Flow · Responsive Layout
 ---
 
 ## Fitness Coach
-<img width="1356" height="632" alt="Screenshot 2026-09-29 070351" src="https://github.com/user-attachments/assets/721729d2-c458-4a0e-b03c-0fa32a97aa53" />
 
 ### Personal Brand & Coaching Website
 
