@@ -59,7 +59,7 @@ Alongside my procurement and supply chain background, I design full-stack applic
   <img src="https://img.shields.io/badge/Systems_Engineering-00897B?style=flat-square&logo=linux&logoColor=white" alt="Systems Engineering" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="TypeScript, Python, C++, Next.js, Node.js, Linux, Git and GitHub" />
 </p>
 <p align="left">
