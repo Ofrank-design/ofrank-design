@@ -150,22 +150,9 @@ A low-level database project focused on persistent storage, indexing, and effici
 ---
 
 
-## 🧰 Engineering Focus
-
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/Testing-45A29E?style=for-the-badge&logo=playwright&logoColor=white" alt="Testing and Automation" />
-  <img src="https://img.shields.io/badge/Developer_Tooling-2496ED?style=for-the-badge&logo=gnubash&logoColor=white" alt="Developer Tooling" />
-  <img src="https://img.shields.io/badge/Networking-00897B?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Database_Internals-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Internals" />
-  <img src="https://img.shields.io/badge/System_Design-6C3483?style=for-the-badge&logo=blueprint&logoColor=white" alt="System Design" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,openai,github,playwright,bash,postgres,docker,linux,git" alt="TypeScript, Next.js, OpenAI, GitHub, Playwright, Bash, PostgreSQL, Docker, Linux and Git" />
 </p>
-
-I build practical software products and explore the engineering principles behind reliable, maintainable, and performant systems.
-
-
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
