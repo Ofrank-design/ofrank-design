@@ -59,6 +59,9 @@ Alongside my procurement and supply chain background, I design full-stack applic
   <img src="https://img.shields.io/badge/Systems_Engineering-00897B?style=flat-square&logo=linux&logoColor=white" alt="Systems Engineering" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="TypeScript, Python, C++, Next.js, Node.js, Linux, Git and GitHub" />
+</p>
 <p align="left">
   AI-powered applications, enterprise software, processor architecture, and hardware security systems.
 </p>
@@ -211,9 +214,6 @@ A command-line tool for generating documentation websites from Markdown content,
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="TypeScript, Python, C++, Next.js, Node.js, Linux, Git and GitHub" />
-</p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
