@@ -82,7 +82,7 @@ Football intelligence platform combining real match data, statistical models, ma
   <img src="https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=flat-square" alt="Predictive Analytics" />
 </p>
 
-[**↗ Repository**](https://github.com/Ofrank-design/goalgrid)
+[**↗ LIVE DEMO**](https://goalgrid.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@ A voice-first CRM that transforms voice notes into structured, reviewable tasks 
   <img src="https://img.shields.io/badge/E2E_Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="End-to-end testing" />
 </p>
 
-[**↗ Source Code**](https://github.com/Ofrank-design/voicesync-crm)
+[**↗ LIVE DEMO**](https://voicesync-crm.vercel.app)
 
 </td>
 </tr>
@@ -172,7 +172,7 @@ An educational simulator for exploring rental cash flow, property appreciation, 
   <img src="https://img.shields.io/badge/Financial_Modeling-2563EB?style=flat-square" alt="Financial Modeling" />
 </p>
 
-[**↗ Source Code**](https://github.com/Ofrank-design/esta-simulator)
+[**↗ LIVE DEMO**](https://esta-simulator.vercel.app)
 
 </td>
 </tr>
