@@ -50,17 +50,17 @@ My focus is understanding how organizations purchase goods and services, manage 
 Alongside my procurement and supply chain background, I design full-stack applications and digital hardware: ranging from responsive web interfaces and AI-driven automation to custom RISC-V processors and encrypted FPGA systems.
 
 
-## 🚀 Featured Projects
+##  Main Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enterprise_Software-2563EB?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems_Engineering-00897B?style=flat-square&logo=linux&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Full_Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Enterprise_Software-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Enterprise Software" />
+  <img src="https://img.shields.io/badge/Systems_Engineering-00897B?style=flat-square&logo=linux&logoColor=white" alt="Systems Engineering" />
 </p>
 
-<p align="center">
-  A selection of software products and engineering projects focused on applied AI, enterprise platforms, developer tooling, and systems engineering.
+<p align="left">
+  AI-powered applications, enterprise software, processor architecture, and hardware security systems.
 </p>
 
 <table>
@@ -70,16 +70,16 @@ Alongside my procurement and supply chain background, I design full-stack applic
 ### ⚽ GoalGrid
 **AI Football Intelligence**
 
-Football analytics platform combining live match data, prediction probabilities, and performance analysis.
+Football intelligence platform combining real match data, statistical models, machine learning, and AI-assisted analysis.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="32" alt="Next.js TypeScript Vercel" />
+<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
 
 <p>
-  <img src="https://img.shields.io/badge/Live_Data-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Live_Data-16A34A?style=flat-square" alt="Live Data" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=flat-square" alt="Predictive Analytics" />
 </p>
 
-[**↗ Live Demo**](https://goalgrid-two.vercel.app/)
+[**↗ Repository**](https://github.com/Ofrank-design/goalgrid)
 
 </td>
 <td width="50%" valign="top">
@@ -87,13 +87,13 @@ Football analytics platform combining live match data, prediction probabilities,
 ### 🎙️ VoiceSync CRM
 **AI-Powered Voice Workflows**
 
-A voice-first CRM application for turning recorded information into structured, manageable records.
+A voice-first CRM that transforms voice notes into structured, reviewable tasks using AI-assisted extraction.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,supabase" height="32" alt="Next.js TypeScript Node.js Supabase" />
 
 <p>
-  <img src="https://img.shields.io/badge/Multi--Provider_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/E2E_Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Provider_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Multi-provider AI" />
+  <img src="https://img.shields.io/badge/E2E_Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="End-to-end testing" />
 </p>
 
 [**↗ Source Code**](https://github.com/Ofrank-design/voicesync-crm)
@@ -103,84 +103,114 @@ A voice-first CRM application for turning recorded information into structured, 
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 PAVOS ERP
-**Enterprise Resource Planning**
+### 🧠 Bootloader CPU
+**RISC-V Processor Architecture**
 
-An ERP project focused on unifying business operations and enterprise workflows.
+A synthesizable single-cycle RISC-V RV32I-subset CPU integrated into a memory-mapped SoC and verified using bare-metal assembly.
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,docker" height="32" alt="TypeScript Next.js PostgreSQL Docker" />
+<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat-square" alt="SystemVerilog" />
+<img src="https://img.shields.io/badge/RISC--V-00629B?style=flat-square" alt="RISC-V" />
 
 <p>
-  <img src="https://img.shields.io/badge/Enterprise_Architecture-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Production_Readiness-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/CPU_Design-334155?style=flat-square" alt="CPU Design" />
+  <img src="https://img.shields.io/badge/SoC_Integration-0F766E?style=flat-square" alt="SoC Integration" />
 </p>
 
-[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
+[**↗ Source Code**](https://github.com/Ofrank-design/bootloader-cpu)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ DocuForge
-**Markdown-to-Documentation CLI**
+### 🔌 AXI4-Lite Register Map
+**RTL Design & Verification**
 
-A developer tool for generating documentation websites from Markdown content.
+A synthesizable AXI4-Lite slave with four 32-bit read/write registers and a self-checking testbench.
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,md,git,github" height="32" alt="Node.js TypeScript Markdown Git GitHub" />
+<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat-square" alt="SystemVerilog" />
 
 <p>
-  <img src="https://img.shields.io/badge/CLI_Tooling-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/AXI4--Lite-007ACC?style=flat-square" alt="AXI4-Lite" />
+  <img src="https://img.shields.io/badge/Verification-0F766E?style=flat-square" alt="Verification" />
 </p>
 
-[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
+[**↗ Source Code**](https://github.com/Ofrank-design/axi4l-regmap)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Userspace Network Stack
-**Network Protocol Engineering**
+### 🔐 Secure UART Crypto Engine
+**FPGA & Hardware Security**
 
-A systems project exploring packet processing and network protocol implementation.
+A VHDL-2008 hardware design implementing AES-128-GCM authenticated encryption over a framed UART packet protocol.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" height="32" alt="C C++ Linux Bash" />
+<img src="https://img.shields.io/badge/VHDL-6A5ACD?style=flat-square" alt="VHDL" />
 
 <p>
-  <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0D9488?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%20%2F%20ICMP-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/AES--128--GCM-B22222?style=flat-square" alt="AES-128-GCM" />
+  <img src="https://img.shields.io/badge/Simulation_Verified-16A34A?style=flat-square" alt="Simulation verified" />
 </p>
 
-[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
+[**↗ Source Code**](https://github.com/Ofrank-design/secure-uart-crypto-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### 💾 Storage Engine
-**Database Internals**
+### 🏘️ ESTA Simulator
+**Real Estate Investment Simulation**
 
-A low-level database project exploring persistent storage, indexing, logging, and efficient data access.
+An educational simulator for exploring rental cash flow, property appreciation, distribution options, and long-term investment scenarios.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,postgres" height="32" alt="C C++ Linux PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
 
 <p>
-  <img src="https://img.shields.io/badge/Storage_Engines-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Structures-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real_Estate-0F766E?style=flat-square" alt="Real Estate" />
+  <img src="https://img.shields.io/badge/Financial_Modeling-2563EB?style=flat-square" alt="Financial Modeling" />
 </p>
 
-[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
+[**↗ Source Code**](https://github.com/Ofrank-design/esta-simulator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 PAVOS ERP
+**Enterprise Resource Planning**
+
+A private enterprise software project focused on integrated business operations and enterprise workflows.
+
+<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
+
+<p>
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-1D4ED8?style=flat-square" alt="Enterprise Architecture" />
+  <img src="https://img.shields.io/badge/ERP-0F766E?style=flat-square" alt="ERP" />
+</p>
+
+<sub>Private repository</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DocuForge
+**Developer Tooling**
+
+A command-line tool for generating documentation websites from Markdown content, with initialization, build, and preview workflows.
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,md,git,github" height="32" alt="Node.js TypeScript Markdown Git GitHub" />
+
+<p>
+  <img src="https://img.shields.io/badge/CLI_Tooling-334155?style=flat-square" alt="CLI Tooling" />
+  <img src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square" alt="Documentation" />
+</p>
+
+[**↗ Source Code**](https://github.com/Ofrank-design/docuforge)
 
 </td>
 </tr>
 </table>
 
-
----
-
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,openai,github,playwright,bash,postgres,docker,linux,git" alt="TypeScript, Next.js, OpenAI, GitHub, Playwright, Bash, PostgreSQL, Docker, Linux and Git" />
-</p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
