@@ -150,7 +150,7 @@ A low-level database project focused on persistent storage, indexing, and effici
 ---
 
 
-<p align="left">
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=ts,nextjs,openai,github,playwright,bash,postgres,docker,linux,git" alt="TypeScript, Next.js, OpenAI, GitHub, Playwright, Bash, PostgreSQL, Docker, Linux and Git" />
 </p>
 
