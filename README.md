@@ -48,3 +48,39 @@ about_me
 I work at the intersection of procurement operations, supply chain systems, and technical engineering.
 My focus is understanding how organizations purchase goods and services, manage suppliers, control inventory, coordinate logistics, monitor budgets, and make operational decisions—then translating those workflows into digital tools that are more structured, transparent, and data-driven.
 Alongside my procurement and supply chain background, I design full-stack applications and digital hardware: ranging from responsive web interfaces and AI-driven automation to custom RISC-V processors and encrypted FPGA systems.
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:frankoduro1912@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="frankoduro1912@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/odee_frank" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="odee_frank" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_anonymoustroy" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="_anonymoustroy" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/ofrank-design" target="_blank">
+<img src="./github.png" width=50 height=50 alt="ofrank-design" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ofrank-design/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<div align="center">
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/ofrankdesign" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
