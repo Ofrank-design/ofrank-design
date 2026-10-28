@@ -75,8 +75,7 @@ Alongside my procurement and supply chain background, I design full-stack applic
 
 Football intelligence platform combining real match data, statistical models, machine learning, and AI-assisted analysis.
 
-<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
-
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,supabase" height="32" alt="Next.js TypeScript Node.js Supabase" />
 <p>
   <img src="https://img.shields.io/badge/Live_Data-16A34A?style=flat-square" alt="Live Data" />
   <img src="https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=flat-square" alt="Predictive Analytics" />
