@@ -7,11 +7,12 @@
 </div>
 
 
-## `Hi_I'm Frank_Oduro`
+## `Hi, I'm Frank Oduro`
 
-### Procurement Technology Builder · Full-Stack Web Developer · Supply Chain Systems
 
-I combine procurement and supply chain knowledge with software development to build practical digital solutions for purchasing, suppliers, inventory, logistics, analytics, and business operations.
+#### Hardware-to-Software Engineer · Supply Chain Tech Builder · Full-Stack Developer
+
+I bridge the gap between digital design, web technologies, and logistics. By combining deep procurement domain expertise with full-stack capabilities and hardware engineering (RISC-V/FPGA), I build intelligent, end-to-end solutions for supply chain automation, secure cryptography, and business operations.
 
 <br />
 <a href="https://ofrank-design.github.io">
@@ -46,8 +47,7 @@ I combine procurement and supply chain knowledge with software development to bu
 
 <br />
 
-`PROCUREMENT` · `SUPPLY CHAIN` · `ERP SYSTEMS` · `B2B SAAS` · `AUTOMATION` · `ANALYTICS`
-
+`FULL-STACK · HARDWARE ENG · RISC-V · FPGA · AI INTEGRATION · DIGITAL DESIGN · VIBE CODING`
 <p>
   <a href="https://github.com/Ofrank-design">
     <img src="https://img.shields.io/github/followers/Ofrank-design?label=Follow&style=for-the-badge&logo=github&color=0F172A" alt="GitHub Followers" />
@@ -57,10 +57,8 @@ I combine procurement and supply chain knowledge with software development to bu
 
 
 
-## `about_me`
 
-I work at the intersection of **procurement operations, supply chain systems, and software development**.
-
+about_me
+I work at the intersection of procurement operations, supply chain systems, and technical engineering.
 My focus is understanding how organizations purchase goods and services, manage suppliers, control inventory, coordinate logistics, monitor budgets, and make operational decisions—then translating those workflows into digital tools that are more structured, transparent, and data-driven.
-
-Alongside my procurement and supply chain background, I build full-stack websites and business applications: from responsive user interfaces to data models, APIs, dashboards, and workflow automation.
+Alongside my procurement and supply chain background, I design full-stack applications and digital hardware: ranging from responsive web interfaces and AI-driven automation to custom RISC-V processors and encrypted FPGA systems.
