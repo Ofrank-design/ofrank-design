@@ -49,6 +49,113 @@ I work at the intersection of procurement operations, supply chain systems, and 
 My focus is understanding how organizations purchase goods and services, manage suppliers, control inventory, coordinate logistics, monitor budgets, and make operational decisions—then translating those workflows into digital tools that are more structured, transparent, and data-driven.
 Alongside my procurement and supply chain background, I design full-stack applications and digital hardware: ranging from responsive web interfaces and AI-driven automation to custom RISC-V processors and encrypted FPGA systems.
 
+
+## 🚀 Featured Projects
+
+A selection of products and engineering projects focused on applied AI, enterprise software, developer tooling, and systems engineering.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ GoalGrid
+**AI Football Intelligence**
+
+Football analytics platform combining live match data, prediction probabilities, and performance analysis.
+
+- Live match data and predictions
+- Probability-based decision support
+- Prediction performance tracking
+
+[**Live Demo →**](https://goalgrid-two.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ VoiceSync CRM
+**AI-Powered Voice Workflows**
+
+A voice-first CRM application designed to turn recorded information into structured, manageable records.
+
+- Record, review, edit, and save workflows
+- Multiple AI provider integrations
+- Automated browser testing
+
+[**Source Code →**](https://github.com/Ofrank-design/voicesync-crm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 PAVOS ERP
+**Enterprise Resource Planning**
+
+An ERP project focused on building a unified platform for business operations and enterprise workflows.
+
+- Modular business capabilities
+- Production-readiness engineering
+- Enterprise-oriented architecture
+
+[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DocuForge
+**Markdown-to-Documentation CLI**
+
+A developer tool for generating documentation websites from Markdown content.
+
+- Project initialization
+- Documentation builds
+- Local preview workflow
+
+[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Userspace Network Stack
+**Network Protocol Engineering**
+
+A systems project exploring user-space packet processing and network protocol implementation.
+
+- IPv4 and IPv6
+- Routing and ICMP
+- TCP state management and TUN/TAP
+
+[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 💾 Storage Engine
+**Database Internals**
+
+A low-level database project focused on persistent storage, indexing, and efficient data access.
+
+- Write-ahead logging
+- LSM-tree or B+ tree indexing
+- Buffer pool and caching design
+
+[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Engineering Focus
+
+`TypeScript` · `Next.js` · `AI Integrations` · `Testing & Automation` · `Developer Tooling` · `Networking` · `Database Internals` · `System Design`
+
+I build practical software products while exploring the engineering principles behind reliable, maintainable, and performant systems.
+
+
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
