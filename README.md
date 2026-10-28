@@ -211,6 +211,9 @@ A command-line tool for generating documentation websites from Markdown content,
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="TypeScript, Python, C++, Next.js, Node.js, Linux, Git and GitHub" />
+</p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
