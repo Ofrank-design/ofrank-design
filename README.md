@@ -30,19 +30,6 @@ I bridge the gap between digital design, web technologies, and logistics. By com
   <img align="right" width="60%" alt="Tech Stack" src="./Skills_Animation_White.gif"/>
 </picture>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Building practical software for procurement workflows, supply chain visibility, and operational decision-making.**
 
 <br />
@@ -54,7 +41,6 @@ I bridge the gap between digital design, web technologies, and logistics. By com
   </a>
   <img src="https://komarev.com/ghpvc/?username=Ofrank-design&style=for-the-badge&color=0EA5E9" alt="Profile views" />
 </p>
-
 
 
 
