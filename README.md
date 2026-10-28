@@ -52,7 +52,16 @@ Alongside my procurement and supply chain background, I design full-stack applic
 
 ## 🚀 Featured Projects
 
-A selection of products and engineering projects focused on applied AI, enterprise software, developer tooling, and systems engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Software-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems_Engineering-00897B?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+<p align="center">
+  A selection of software products and engineering projects focused on applied AI, enterprise platforms, developer tooling, and systems engineering.
+</p>
 
 <table>
 <tr>
@@ -63,11 +72,14 @@ A selection of products and engineering projects focused on applied AI, enterpri
 
 Football analytics platform combining live match data, prediction probabilities, and performance analysis.
 
-- Live match data and predictions
-- Probability-based decision support
-- Prediction performance tracking
+<img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="32" alt="Next.js TypeScript Vercel" />
 
-[**Live Demo →**](https://goalgrid-two.vercel.app/)
+<p>
+  <img src="https://img.shields.io/badge/Live_Data-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=flat-square" />
+</p>
+
+[**↗ Live Demo**](https://goalgrid-two.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -75,13 +87,16 @@ Football analytics platform combining live match data, prediction probabilities,
 ### 🎙️ VoiceSync CRM
 **AI-Powered Voice Workflows**
 
-A voice-first CRM application designed to turn recorded information into structured, manageable records.
+A voice-first CRM application for turning recorded information into structured, manageable records.
 
-- Record, review, edit, and save workflows
-- Multiple AI provider integrations
-- Automated browser testing
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,supabase" height="32" alt="Next.js TypeScript Node.js Supabase" />
 
-[**Source Code →**](https://github.com/Ofrank-design/voicesync-crm)
+<p>
+  <img src="https://img.shields.io/badge/Multi--Provider_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/E2E_Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+[**↗ Source Code**](https://github.com/Ofrank-design/voicesync-crm)
 
 </td>
 </tr>
@@ -91,13 +106,16 @@ A voice-first CRM application designed to turn recorded information into structu
 ### 🏢 PAVOS ERP
 **Enterprise Resource Planning**
 
-An ERP project focused on building a unified platform for business operations and enterprise workflows.
+An ERP project focused on unifying business operations and enterprise workflows.
 
-- Modular business capabilities
-- Production-readiness engineering
-- Enterprise-oriented architecture
+<img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,docker" height="32" alt="TypeScript Next.js PostgreSQL Docker" />
 
-[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Production_Readiness-0F766E?style=flat-square" />
+</p>
+
+[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -107,11 +125,14 @@ An ERP project focused on building a unified platform for business operations an
 
 A developer tool for generating documentation websites from Markdown content.
 
-- Project initialization
-- Documentation builds
-- Local preview workflow
+<img src="https://skillicons.dev/icons?i=nodejs,ts,md,git,github" height="32" alt="Node.js TypeScript Markdown Git GitHub" />
 
-[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/CLI_Tooling-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square" />
+</p>
+
+[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
 
 </td>
 </tr>
@@ -121,13 +142,16 @@ A developer tool for generating documentation websites from Markdown content.
 ### 🌐 Userspace Network Stack
 **Network Protocol Engineering**
 
-A systems project exploring user-space packet processing and network protocol implementation.
+A systems project exploring packet processing and network protocol implementation.
 
-- IPv4 and IPv6
-- Routing and ICMP
-- TCP state management and TUN/TAP
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" height="32" alt="C C++ Linux Bash" />
 
-[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%20%2F%20ICMP-475569?style=flat-square" />
+</p>
+
+[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -135,17 +159,21 @@ A systems project exploring user-space packet processing and network protocol im
 ### 💾 Storage Engine
 **Database Internals**
 
-A low-level database project focused on persistent storage, indexing, and efficient data access.
+A low-level database project exploring persistent storage, indexing, logging, and efficient data access.
 
-- Write-ahead logging
-- LSM-tree or B+ tree indexing
-- Buffer pool and caching design
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,postgres" height="32" alt="C C++ Linux PostgreSQL" />
 
-[**Explore Repository →**](https://github.com/Ofrank-design?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Storage_Engines-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures-9333EA?style=flat-square" />
+</p>
+
+[**↗ Explore Repositories**](https://github.com/Ofrank-design?tab=repositories)
 
 </td>
 </tr>
 </table>
+
 
 ---
 
