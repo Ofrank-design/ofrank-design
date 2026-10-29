@@ -249,3 +249,7 @@ A command-line tool for generating documentation websites from Markdown content,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+<p align="center">
+  <i>“The way to get started is to quit talking and begin doing.”</i><br>
+  <strong>— Walt Disney</strong>
+</p>
