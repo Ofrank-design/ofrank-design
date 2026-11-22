@@ -40,16 +40,6 @@
                                                    Portfolio: ..................... ofrank-design.github.io
 ```
 
-<div align="center">
-
-[![GoalGrid](https://img.shields.io/badge/GoalGrid-Live_Demo-16A34A?style=flat-square)](https://goalgrid.vercel.app)
-[![VoiceSync CRM](https://img.shields.io/badge/VoiceSync_CRM-Live_Demo-412991?style=flat-square)](https://voicesync-crm.vercel.app)
-[![ESTA Simulator](https://img.shields.io/badge/ESTA_Simulator-Live_Demo-2563EB?style=flat-square)](https://esta-simulator.vercel.app)
-[![Bootloader CPU](https://img.shields.io/badge/Bootloader_CPU-Source-00629B?style=flat-square)](https://github.com/Ofrank-design/bootloader-cpu)
-[![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite_RegMap-Source-007ACC?style=flat-square)](https://github.com/Ofrank-design/axi4l-regmap)
-[![Crypto Engine](https://img.shields.io/badge/Secure_UART_Crypto-Source-B22222?style=flat-square)](https://github.com/Ofrank-design/secure-uart-crypto-engine)
-[![DocuForge](https://img.shields.io/badge/DocuForge-Source-334155?style=flat-square)](https://github.com/Ofrank-design/docuforge)
-
 <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="Tech stack"/>
 
 <br/>
