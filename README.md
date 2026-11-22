@@ -47,7 +47,6 @@
 [![ESTA Simulator](https://img.shields.io/badge/ESTA_Simulator-Live_Demo-2563EB?style=flat-square)](https://esta-simulator.vercel.app)
 [![Bootloader CPU](https://img.shields.io/badge/Bootloader_CPU-Source-00629B?style=flat-square)](https://github.com/Ofrank-design/bootloader-cpu)
 [![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite_RegMap-Source-007ACC?style=flat-square)](https://github.com/Ofrank-design/axi4l-regmap)
-[![Crypto Engine](https://img.shields.io/badge/Secure_UART_Crypto-Source-B22222?style=flat-square)](https://github.com/Ofrank-design/secure-uart-crypto-engine)
 
 <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="Tech stack"/>
 
