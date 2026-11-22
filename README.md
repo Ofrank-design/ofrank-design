@@ -54,6 +54,6 @@
 
 <a href="https://www.buymeacoffee.com/ofrankdesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=45&section=footer"/>
 
 </div>
