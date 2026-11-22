@@ -39,6 +39,7 @@
                                                    Instagram: .............................. _anonymoustroy
                                                    Portfolio: ..................... ofrank-design.github.io
 ```
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,nodejs,linux,git,github" alt="Tech stack"/>
 
